@@ -1,0 +1,7001 @@
+officer_id,experience_rate,reason
+officer_1,0,careless driving
+officer_1,1,drunk
+officer_1,1,speed
+officer_1,1,overtake
+officer_1,0,rule violating
+officer_1,1,turning
+officer_1,1,other
+officer_2,0,careless driving
+officer_2,0,drunk
+officer_2,0,speed
+officer_2,1,overtake
+officer_2,0,rule violating
+officer_2,1,turning
+officer_2,0,other
+officer_3,1,careless driving
+officer_3,0,drunk
+officer_3,1,speed
+officer_3,0,overtake
+officer_3,1,rule violating
+officer_3,1,turning
+officer_3,1,other
+officer_4,0,careless driving
+officer_4,0,drunk
+officer_4,0,speed
+officer_4,0,overtake
+officer_4,0,rule violating
+officer_4,0,turning
+officer_4,1,other
+officer_5,1,careless driving
+officer_5,0,drunk
+officer_5,1,speed
+officer_5,1,overtake
+officer_5,0,rule violating
+officer_5,1,turning
+officer_5,0,other
+officer_6,0,careless driving
+officer_6,0,drunk
+officer_6,0,speed
+officer_6,1,overtake
+officer_6,1,rule violating
+officer_6,1,turning
+officer_6,0,other
+officer_7,0,careless driving
+officer_7,1,drunk
+officer_7,0,speed
+officer_7,0,overtake
+officer_7,1,rule violating
+officer_7,0,turning
+officer_7,0,other
+officer_8,0,careless driving
+officer_8,0,drunk
+officer_8,0,speed
+officer_8,1,overtake
+officer_8,1,rule violating
+officer_8,0,turning
+officer_8,1,other
+officer_9,1,careless driving
+officer_9,0,drunk
+officer_9,0,speed
+officer_9,1,overtake
+officer_9,0,rule violating
+officer_9,0,turning
+officer_9,1,other
+officer_10,0,careless driving
+officer_10,0,drunk
+officer_10,1,speed
+officer_10,0,overtake
+officer_10,1,rule violating
+officer_10,0,turning
+officer_10,1,other
+officer_11,1,careless driving
+officer_11,1,drunk
+officer_11,0,speed
+officer_11,0,overtake
+officer_11,0,rule violating
+officer_11,1,turning
+officer_11,1,other
+officer_12,1,careless driving
+officer_12,0,drunk
+officer_12,1,speed
+officer_12,0,overtake
+officer_12,0,rule violating
+officer_12,0,turning
+officer_12,0,other
+officer_13,1,careless driving
+officer_13,0,drunk
+officer_13,0,speed
+officer_13,1,overtake
+officer_13,1,rule violating
+officer_13,0,turning
+officer_13,0,other
+officer_14,0,careless driving
+officer_14,1,drunk
+officer_14,1,speed
+officer_14,1,overtake
+officer_14,1,rule violating
+officer_14,0,turning
+officer_14,1,other
+officer_15,1,careless driving
+officer_15,1,drunk
+officer_15,0,speed
+officer_15,1,overtake
+officer_15,0,rule violating
+officer_15,1,turning
+officer_15,0,other
+officer_16,1,careless driving
+officer_16,0,drunk
+officer_16,0,speed
+officer_16,1,overtake
+officer_16,0,rule violating
+officer_16,1,turning
+officer_16,0,other
+officer_17,0,careless driving
+officer_17,1,drunk
+officer_17,0,speed
+officer_17,0,overtake
+officer_17,0,rule violating
+officer_17,0,turning
+officer_17,1,other
+officer_18,1,careless driving
+officer_18,1,drunk
+officer_18,0,speed
+officer_18,0,overtake
+officer_18,0,rule violating
+officer_18,0,turning
+officer_18,1,other
+officer_19,1,careless driving
+officer_19,0,drunk
+officer_19,1,speed
+officer_19,1,overtake
+officer_19,1,rule violating
+officer_19,0,turning
+officer_19,0,other
+officer_20,1,careless driving
+officer_20,0,drunk
+officer_20,1,speed
+officer_20,0,overtake
+officer_20,0,rule violating
+officer_20,0,turning
+officer_20,1,other
+officer_21,0,careless driving
+officer_21,1,drunk
+officer_21,1,speed
+officer_21,1,overtake
+officer_21,1,rule violating
+officer_21,0,turning
+officer_21,0,other
+officer_22,1,careless driving
+officer_22,0,drunk
+officer_22,0,speed
+officer_22,0,overtake
+officer_22,1,rule violating
+officer_22,0,turning
+officer_22,0,other
+officer_23,0,careless driving
+officer_23,0,drunk
+officer_23,0,speed
+officer_23,1,overtake
+officer_23,1,rule violating
+officer_23,0,turning
+officer_23,1,other
+officer_24,0,careless driving
+officer_24,1,drunk
+officer_24,0,speed
+officer_24,0,overtake
+officer_24,1,rule violating
+officer_24,0,turning
+officer_24,1,other
+officer_25,1,careless driving
+officer_25,0,drunk
+officer_25,1,speed
+officer_25,1,overtake
+officer_25,0,rule violating
+officer_25,0,turning
+officer_25,0,other
+officer_26,0,careless driving
+officer_26,0,drunk
+officer_26,0,speed
+officer_26,1,overtake
+officer_26,0,rule violating
+officer_26,1,turning
+officer_26,0,other
+officer_27,1,careless driving
+officer_27,0,drunk
+officer_27,0,speed
+officer_27,0,overtake
+officer_27,1,rule violating
+officer_27,1,turning
+officer_27,0,other
+officer_28,0,careless driving
+officer_28,0,drunk
+officer_28,0,speed
+officer_28,0,overtake
+officer_28,0,rule violating
+officer_28,1,turning
+officer_28,0,other
+officer_29,1,careless driving
+officer_29,0,drunk
+officer_29,0,speed
+officer_29,0,overtake
+officer_29,1,rule violating
+officer_29,0,turning
+officer_29,1,other
+officer_30,0,careless driving
+officer_30,1,drunk
+officer_30,0,speed
+officer_30,0,overtake
+officer_30,1,rule violating
+officer_30,1,turning
+officer_30,1,other
+officer_31,0,careless driving
+officer_31,1,drunk
+officer_31,1,speed
+officer_31,0,overtake
+officer_31,0,rule violating
+officer_31,0,turning
+officer_31,1,other
+officer_32,0,careless driving
+officer_32,1,drunk
+officer_32,1,speed
+officer_32,0,overtake
+officer_32,0,rule violating
+officer_32,1,turning
+officer_32,1,other
+officer_33,1,careless driving
+officer_33,0,drunk
+officer_33,0,speed
+officer_33,0,overtake
+officer_33,0,rule violating
+officer_33,0,turning
+officer_33,0,other
+officer_34,0,careless driving
+officer_34,1,drunk
+officer_34,0,speed
+officer_34,0,overtake
+officer_34,1,rule violating
+officer_34,1,turning
+officer_34,0,other
+officer_35,1,careless driving
+officer_35,0,drunk
+officer_35,1,speed
+officer_35,1,overtake
+officer_35,1,rule violating
+officer_35,1,turning
+officer_35,0,other
+officer_36,0,careless driving
+officer_36,0,drunk
+officer_36,0,speed
+officer_36,0,overtake
+officer_36,0,rule violating
+officer_36,0,turning
+officer_36,0,other
+officer_37,0,careless driving
+officer_37,0,drunk
+officer_37,0,speed
+officer_37,1,overtake
+officer_37,0,rule violating
+officer_37,1,turning
+officer_37,1,other
+officer_38,1,careless driving
+officer_38,1,drunk
+officer_38,1,speed
+officer_38,1,overtake
+officer_38,0,rule violating
+officer_38,1,turning
+officer_38,1,other
+officer_39,1,careless driving
+officer_39,1,drunk
+officer_39,0,speed
+officer_39,0,overtake
+officer_39,1,rule violating
+officer_39,1,turning
+officer_39,0,other
+officer_40,1,careless driving
+officer_40,0,drunk
+officer_40,1,speed
+officer_40,1,overtake
+officer_40,1,rule violating
+officer_40,0,turning
+officer_40,1,other
+officer_41,0,careless driving
+officer_41,1,drunk
+officer_41,0,speed
+officer_41,0,overtake
+officer_41,1,rule violating
+officer_41,0,turning
+officer_41,1,other
+officer_42,0,careless driving
+officer_42,0,drunk
+officer_42,0,speed
+officer_42,0,overtake
+officer_42,1,rule violating
+officer_42,0,turning
+officer_42,1,other
+officer_43,1,careless driving
+officer_43,1,drunk
+officer_43,1,speed
+officer_43,0,overtake
+officer_43,0,rule violating
+officer_43,1,turning
+officer_43,1,other
+officer_44,0,careless driving
+officer_44,1,drunk
+officer_44,0,speed
+officer_44,1,overtake
+officer_44,1,rule violating
+officer_44,1,turning
+officer_44,1,other
+officer_45,0,careless driving
+officer_45,0,drunk
+officer_45,0,speed
+officer_45,0,overtake
+officer_45,0,rule violating
+officer_45,0,turning
+officer_45,1,other
+officer_46,0,careless driving
+officer_46,0,drunk
+officer_46,1,speed
+officer_46,0,overtake
+officer_46,1,rule violating
+officer_46,0,turning
+officer_46,1,other
+officer_47,0,careless driving
+officer_47,0,drunk
+officer_47,1,speed
+officer_47,1,overtake
+officer_47,0,rule violating
+officer_47,0,turning
+officer_47,1,other
+officer_48,0,careless driving
+officer_48,1,drunk
+officer_48,0,speed
+officer_48,0,overtake
+officer_48,0,rule violating
+officer_48,0,turning
+officer_48,0,other
+officer_49,0,careless driving
+officer_49,1,drunk
+officer_49,1,speed
+officer_49,0,overtake
+officer_49,1,rule violating
+officer_49,1,turning
+officer_49,1,other
+officer_50,1,careless driving
+officer_50,0,drunk
+officer_50,1,speed
+officer_50,0,overtake
+officer_50,0,rule violating
+officer_50,0,turning
+officer_50,0,other
+officer_51,1,careless driving
+officer_51,1,drunk
+officer_51,1,speed
+officer_51,1,overtake
+officer_51,0,rule violating
+officer_51,0,turning
+officer_51,1,other
+officer_52,1,careless driving
+officer_52,1,drunk
+officer_52,1,speed
+officer_52,1,overtake
+officer_52,0,rule violating
+officer_52,0,turning
+officer_52,0,other
+officer_53,0,careless driving
+officer_53,0,drunk
+officer_53,1,speed
+officer_53,0,overtake
+officer_53,0,rule violating
+officer_53,0,turning
+officer_53,0,other
+officer_54,0,careless driving
+officer_54,1,drunk
+officer_54,0,speed
+officer_54,1,overtake
+officer_54,0,rule violating
+officer_54,0,turning
+officer_54,1,other
+officer_55,1,careless driving
+officer_55,1,drunk
+officer_55,0,speed
+officer_55,0,overtake
+officer_55,1,rule violating
+officer_55,0,turning
+officer_55,0,other
+officer_56,1,careless driving
+officer_56,0,drunk
+officer_56,0,speed
+officer_56,1,overtake
+officer_56,1,rule violating
+officer_56,0,turning
+officer_56,1,other
+officer_57,0,careless driving
+officer_57,0,drunk
+officer_57,1,speed
+officer_57,0,overtake
+officer_57,0,rule violating
+officer_57,0,turning
+officer_57,1,other
+officer_58,1,careless driving
+officer_58,0,drunk
+officer_58,1,speed
+officer_58,0,overtake
+officer_58,1,rule violating
+officer_58,0,turning
+officer_58,1,other
+officer_59,0,careless driving
+officer_59,0,drunk
+officer_59,1,speed
+officer_59,0,overtake
+officer_59,0,rule violating
+officer_59,1,turning
+officer_59,0,other
+officer_60,1,careless driving
+officer_60,1,drunk
+officer_60,1,speed
+officer_60,1,overtake
+officer_60,0,rule violating
+officer_60,0,turning
+officer_60,1,other
+officer_61,0,careless driving
+officer_61,0,drunk
+officer_61,1,speed
+officer_61,1,overtake
+officer_61,0,rule violating
+officer_61,1,turning
+officer_61,0,other
+officer_62,0,careless driving
+officer_62,1,drunk
+officer_62,0,speed
+officer_62,0,overtake
+officer_62,1,rule violating
+officer_62,1,turning
+officer_62,1,other
+officer_63,0,careless driving
+officer_63,0,drunk
+officer_63,1,speed
+officer_63,0,overtake
+officer_63,0,rule violating
+officer_63,0,turning
+officer_63,1,other
+officer_64,0,careless driving
+officer_64,1,drunk
+officer_64,0,speed
+officer_64,1,overtake
+officer_64,0,rule violating
+officer_64,0,turning
+officer_64,0,other
+officer_65,1,careless driving
+officer_65,0,drunk
+officer_65,1,speed
+officer_65,1,overtake
+officer_65,1,rule violating
+officer_65,0,turning
+officer_65,1,other
+officer_66,1,careless driving
+officer_66,1,drunk
+officer_66,0,speed
+officer_66,0,overtake
+officer_66,1,rule violating
+officer_66,0,turning
+officer_66,1,other
+officer_67,1,careless driving
+officer_67,0,drunk
+officer_67,0,speed
+officer_67,1,overtake
+officer_67,1,rule violating
+officer_67,1,turning
+officer_67,0,other
+officer_68,1,careless driving
+officer_68,0,drunk
+officer_68,1,speed
+officer_68,1,overtake
+officer_68,0,rule violating
+officer_68,1,turning
+officer_68,1,other
+officer_69,0,careless driving
+officer_69,1,drunk
+officer_69,0,speed
+officer_69,1,overtake
+officer_69,0,rule violating
+officer_69,1,turning
+officer_69,1,other
+officer_70,1,careless driving
+officer_70,1,drunk
+officer_70,0,speed
+officer_70,1,overtake
+officer_70,1,rule violating
+officer_70,0,turning
+officer_70,0,other
+officer_71,0,careless driving
+officer_71,1,drunk
+officer_71,0,speed
+officer_71,1,overtake
+officer_71,1,rule violating
+officer_71,1,turning
+officer_71,1,other
+officer_72,1,careless driving
+officer_72,1,drunk
+officer_72,0,speed
+officer_72,1,overtake
+officer_72,0,rule violating
+officer_72,1,turning
+officer_72,1,other
+officer_73,0,careless driving
+officer_73,0,drunk
+officer_73,0,speed
+officer_73,0,overtake
+officer_73,0,rule violating
+officer_73,1,turning
+officer_73,0,other
+officer_74,1,careless driving
+officer_74,0,drunk
+officer_74,0,speed
+officer_74,0,overtake
+officer_74,1,rule violating
+officer_74,1,turning
+officer_74,0,other
+officer_75,0,careless driving
+officer_75,1,drunk
+officer_75,1,speed
+officer_75,1,overtake
+officer_75,0,rule violating
+officer_75,1,turning
+officer_75,1,other
+officer_76,1,careless driving
+officer_76,0,drunk
+officer_76,1,speed
+officer_76,0,overtake
+officer_76,0,rule violating
+officer_76,0,turning
+officer_76,0,other
+officer_77,1,careless driving
+officer_77,0,drunk
+officer_77,1,speed
+officer_77,1,overtake
+officer_77,0,rule violating
+officer_77,0,turning
+officer_77,0,other
+officer_78,0,careless driving
+officer_78,0,drunk
+officer_78,1,speed
+officer_78,1,overtake
+officer_78,1,rule violating
+officer_78,1,turning
+officer_78,0,other
+officer_79,0,careless driving
+officer_79,0,drunk
+officer_79,1,speed
+officer_79,1,overtake
+officer_79,1,rule violating
+officer_79,0,turning
+officer_79,0,other
+officer_80,0,careless driving
+officer_80,0,drunk
+officer_80,1,speed
+officer_80,1,overtake
+officer_80,1,rule violating
+officer_80,0,turning
+officer_80,1,other
+officer_81,0,careless driving
+officer_81,0,drunk
+officer_81,0,speed
+officer_81,0,overtake
+officer_81,1,rule violating
+officer_81,1,turning
+officer_81,1,other
+officer_82,0,careless driving
+officer_82,0,drunk
+officer_82,0,speed
+officer_82,0,overtake
+officer_82,0,rule violating
+officer_82,0,turning
+officer_82,0,other
+officer_83,1,careless driving
+officer_83,0,drunk
+officer_83,0,speed
+officer_83,1,overtake
+officer_83,0,rule violating
+officer_83,0,turning
+officer_83,0,other
+officer_84,0,careless driving
+officer_84,1,drunk
+officer_84,1,speed
+officer_84,1,overtake
+officer_84,1,rule violating
+officer_84,0,turning
+officer_84,0,other
+officer_85,0,careless driving
+officer_85,0,drunk
+officer_85,0,speed
+officer_85,0,overtake
+officer_85,1,rule violating
+officer_85,1,turning
+officer_85,0,other
+officer_86,0,careless driving
+officer_86,0,drunk
+officer_86,0,speed
+officer_86,1,overtake
+officer_86,0,rule violating
+officer_86,0,turning
+officer_86,0,other
+officer_87,1,careless driving
+officer_87,1,drunk
+officer_87,1,speed
+officer_87,1,overtake
+officer_87,1,rule violating
+officer_87,0,turning
+officer_87,1,other
+officer_88,0,careless driving
+officer_88,0,drunk
+officer_88,0,speed
+officer_88,0,overtake
+officer_88,0,rule violating
+officer_88,0,turning
+officer_88,1,other
+officer_89,1,careless driving
+officer_89,0,drunk
+officer_89,1,speed
+officer_89,1,overtake
+officer_89,1,rule violating
+officer_89,0,turning
+officer_89,0,other
+officer_90,0,careless driving
+officer_90,1,drunk
+officer_90,0,speed
+officer_90,1,overtake
+officer_90,0,rule violating
+officer_90,1,turning
+officer_90,0,other
+officer_91,1,careless driving
+officer_91,0,drunk
+officer_91,1,speed
+officer_91,1,overtake
+officer_91,1,rule violating
+officer_91,1,turning
+officer_91,0,other
+officer_92,1,careless driving
+officer_92,0,drunk
+officer_92,1,speed
+officer_92,0,overtake
+officer_92,1,rule violating
+officer_92,0,turning
+officer_92,0,other
+officer_93,1,careless driving
+officer_93,0,drunk
+officer_93,0,speed
+officer_93,1,overtake
+officer_93,1,rule violating
+officer_93,0,turning
+officer_93,1,other
+officer_94,0,careless driving
+officer_94,1,drunk
+officer_94,1,speed
+officer_94,1,overtake
+officer_94,1,rule violating
+officer_94,1,turning
+officer_94,0,other
+officer_95,0,careless driving
+officer_95,0,drunk
+officer_95,0,speed
+officer_95,0,overtake
+officer_95,0,rule violating
+officer_95,0,turning
+officer_95,1,other
+officer_96,1,careless driving
+officer_96,1,drunk
+officer_96,0,speed
+officer_96,0,overtake
+officer_96,0,rule violating
+officer_96,1,turning
+officer_96,1,other
+officer_97,1,careless driving
+officer_97,1,drunk
+officer_97,0,speed
+officer_97,1,overtake
+officer_97,0,rule violating
+officer_97,0,turning
+officer_97,0,other
+officer_98,1,careless driving
+officer_98,0,drunk
+officer_98,1,speed
+officer_98,0,overtake
+officer_98,1,rule violating
+officer_98,1,turning
+officer_98,1,other
+officer_99,1,careless driving
+officer_99,0,drunk
+officer_99,1,speed
+officer_99,1,overtake
+officer_99,1,rule violating
+officer_99,0,turning
+officer_99,1,other
+officer_100,0,careless driving
+officer_100,1,drunk
+officer_100,1,speed
+officer_100,0,overtake
+officer_100,0,rule violating
+officer_100,0,turning
+officer_100,1,other
+officer_101,1,careless driving
+officer_101,0,drunk
+officer_101,0,speed
+officer_101,1,overtake
+officer_101,1,rule violating
+officer_101,0,turning
+officer_101,0,other
+officer_102,1,careless driving
+officer_102,0,drunk
+officer_102,1,speed
+officer_102,1,overtake
+officer_102,0,rule violating
+officer_102,0,turning
+officer_102,0,other
+officer_103,0,careless driving
+officer_103,0,drunk
+officer_103,0,speed
+officer_103,1,overtake
+officer_103,1,rule violating
+officer_103,0,turning
+officer_103,1,other
+officer_104,0,careless driving
+officer_104,0,drunk
+officer_104,0,speed
+officer_104,0,overtake
+officer_104,0,rule violating
+officer_104,1,turning
+officer_104,1,other
+officer_105,1,careless driving
+officer_105,0,drunk
+officer_105,1,speed
+officer_105,0,overtake
+officer_105,1,rule violating
+officer_105,0,turning
+officer_105,0,other
+officer_106,1,careless driving
+officer_106,1,drunk
+officer_106,1,speed
+officer_106,1,overtake
+officer_106,1,rule violating
+officer_106,1,turning
+officer_106,0,other
+officer_107,0,careless driving
+officer_107,0,drunk
+officer_107,0,speed
+officer_107,0,overtake
+officer_107,1,rule violating
+officer_107,0,turning
+officer_107,0,other
+officer_108,0,careless driving
+officer_108,0,drunk
+officer_108,1,speed
+officer_108,1,overtake
+officer_108,0,rule violating
+officer_108,1,turning
+officer_108,0,other
+officer_109,1,careless driving
+officer_109,1,drunk
+officer_109,1,speed
+officer_109,1,overtake
+officer_109,0,rule violating
+officer_109,1,turning
+officer_109,0,other
+officer_110,1,careless driving
+officer_110,1,drunk
+officer_110,0,speed
+officer_110,1,overtake
+officer_110,1,rule violating
+officer_110,0,turning
+officer_110,0,other
+officer_111,1,careless driving
+officer_111,1,drunk
+officer_111,0,speed
+officer_111,1,overtake
+officer_111,1,rule violating
+officer_111,0,turning
+officer_111,0,other
+officer_112,0,careless driving
+officer_112,1,drunk
+officer_112,0,speed
+officer_112,1,overtake
+officer_112,0,rule violating
+officer_112,1,turning
+officer_112,0,other
+officer_113,1,careless driving
+officer_113,0,drunk
+officer_113,1,speed
+officer_113,1,overtake
+officer_113,1,rule violating
+officer_113,1,turning
+officer_113,1,other
+officer_114,1,careless driving
+officer_114,0,drunk
+officer_114,1,speed
+officer_114,1,overtake
+officer_114,0,rule violating
+officer_114,1,turning
+officer_114,0,other
+officer_115,0,careless driving
+officer_115,1,drunk
+officer_115,1,speed
+officer_115,1,overtake
+officer_115,1,rule violating
+officer_115,1,turning
+officer_115,0,other
+officer_116,1,careless driving
+officer_116,0,drunk
+officer_116,0,speed
+officer_116,0,overtake
+officer_116,1,rule violating
+officer_116,0,turning
+officer_116,1,other
+officer_117,1,careless driving
+officer_117,0,drunk
+officer_117,0,speed
+officer_117,0,overtake
+officer_117,1,rule violating
+officer_117,1,turning
+officer_117,1,other
+officer_118,0,careless driving
+officer_118,1,drunk
+officer_118,1,speed
+officer_118,1,overtake
+officer_118,0,rule violating
+officer_118,0,turning
+officer_118,1,other
+officer_119,1,careless driving
+officer_119,0,drunk
+officer_119,0,speed
+officer_119,1,overtake
+officer_119,1,rule violating
+officer_119,0,turning
+officer_119,1,other
+officer_120,1,careless driving
+officer_120,1,drunk
+officer_120,0,speed
+officer_120,0,overtake
+officer_120,1,rule violating
+officer_120,0,turning
+officer_120,1,other
+officer_121,1,careless driving
+officer_121,1,drunk
+officer_121,1,speed
+officer_121,1,overtake
+officer_121,0,rule violating
+officer_121,0,turning
+officer_121,1,other
+officer_122,1,careless driving
+officer_122,0,drunk
+officer_122,0,speed
+officer_122,1,overtake
+officer_122,1,rule violating
+officer_122,0,turning
+officer_122,0,other
+officer_123,1,careless driving
+officer_123,0,drunk
+officer_123,0,speed
+officer_123,1,overtake
+officer_123,0,rule violating
+officer_123,1,turning
+officer_123,0,other
+officer_124,1,careless driving
+officer_124,1,drunk
+officer_124,0,speed
+officer_124,0,overtake
+officer_124,1,rule violating
+officer_124,1,turning
+officer_124,0,other
+officer_125,1,careless driving
+officer_125,0,drunk
+officer_125,0,speed
+officer_125,1,overtake
+officer_125,0,rule violating
+officer_125,1,turning
+officer_125,1,other
+officer_126,1,careless driving
+officer_126,1,drunk
+officer_126,0,speed
+officer_126,1,overtake
+officer_126,0,rule violating
+officer_126,0,turning
+officer_126,1,other
+officer_127,0,careless driving
+officer_127,0,drunk
+officer_127,0,speed
+officer_127,1,overtake
+officer_127,0,rule violating
+officer_127,0,turning
+officer_127,1,other
+officer_128,0,careless driving
+officer_128,1,drunk
+officer_128,0,speed
+officer_128,0,overtake
+officer_128,0,rule violating
+officer_128,1,turning
+officer_128,0,other
+officer_129,1,careless driving
+officer_129,0,drunk
+officer_129,1,speed
+officer_129,0,overtake
+officer_129,0,rule violating
+officer_129,1,turning
+officer_129,0,other
+officer_130,0,careless driving
+officer_130,1,drunk
+officer_130,1,speed
+officer_130,0,overtake
+officer_130,0,rule violating
+officer_130,0,turning
+officer_130,0,other
+officer_131,0,careless driving
+officer_131,1,drunk
+officer_131,0,speed
+officer_131,0,overtake
+officer_131,1,rule violating
+officer_131,1,turning
+officer_131,1,other
+officer_132,0,careless driving
+officer_132,1,drunk
+officer_132,0,speed
+officer_132,1,overtake
+officer_132,0,rule violating
+officer_132,0,turning
+officer_132,1,other
+officer_133,0,careless driving
+officer_133,1,drunk
+officer_133,1,speed
+officer_133,1,overtake
+officer_133,0,rule violating
+officer_133,1,turning
+officer_133,1,other
+officer_134,0,careless driving
+officer_134,0,drunk
+officer_134,0,speed
+officer_134,1,overtake
+officer_134,0,rule violating
+officer_134,1,turning
+officer_134,0,other
+officer_135,0,careless driving
+officer_135,0,drunk
+officer_135,0,speed
+officer_135,1,overtake
+officer_135,0,rule violating
+officer_135,1,turning
+officer_135,1,other
+officer_136,0,careless driving
+officer_136,1,drunk
+officer_136,0,speed
+officer_136,1,overtake
+officer_136,1,rule violating
+officer_136,1,turning
+officer_136,0,other
+officer_137,0,careless driving
+officer_137,1,drunk
+officer_137,0,speed
+officer_137,1,overtake
+officer_137,0,rule violating
+officer_137,0,turning
+officer_137,1,other
+officer_138,0,careless driving
+officer_138,0,drunk
+officer_138,0,speed
+officer_138,1,overtake
+officer_138,0,rule violating
+officer_138,0,turning
+officer_138,0,other
+officer_139,0,careless driving
+officer_139,1,drunk
+officer_139,1,speed
+officer_139,1,overtake
+officer_139,0,rule violating
+officer_139,0,turning
+officer_139,1,other
+officer_140,1,careless driving
+officer_140,0,drunk
+officer_140,1,speed
+officer_140,1,overtake
+officer_140,1,rule violating
+officer_140,0,turning
+officer_140,1,other
+officer_141,1,careless driving
+officer_141,0,drunk
+officer_141,0,speed
+officer_141,1,overtake
+officer_141,1,rule violating
+officer_141,0,turning
+officer_141,0,other
+officer_142,1,careless driving
+officer_142,1,drunk
+officer_142,0,speed
+officer_142,0,overtake
+officer_142,0,rule violating
+officer_142,1,turning
+officer_142,1,other
+officer_143,0,careless driving
+officer_143,0,drunk
+officer_143,0,speed
+officer_143,0,overtake
+officer_143,0,rule violating
+officer_143,0,turning
+officer_143,1,other
+officer_144,0,careless driving
+officer_144,1,drunk
+officer_144,0,speed
+officer_144,0,overtake
+officer_144,1,rule violating
+officer_144,1,turning
+officer_144,1,other
+officer_145,1,careless driving
+officer_145,0,drunk
+officer_145,1,speed
+officer_145,0,overtake
+officer_145,0,rule violating
+officer_145,1,turning
+officer_145,1,other
+officer_146,1,careless driving
+officer_146,0,drunk
+officer_146,0,speed
+officer_146,0,overtake
+officer_146,1,rule violating
+officer_146,0,turning
+officer_146,1,other
+officer_147,1,careless driving
+officer_147,0,drunk
+officer_147,1,speed
+officer_147,0,overtake
+officer_147,1,rule violating
+officer_147,1,turning
+officer_147,0,other
+officer_148,0,careless driving
+officer_148,0,drunk
+officer_148,1,speed
+officer_148,0,overtake
+officer_148,1,rule violating
+officer_148,0,turning
+officer_148,1,other
+officer_149,0,careless driving
+officer_149,1,drunk
+officer_149,1,speed
+officer_149,0,overtake
+officer_149,0,rule violating
+officer_149,1,turning
+officer_149,1,other
+officer_150,0,careless driving
+officer_150,0,drunk
+officer_150,0,speed
+officer_150,0,overtake
+officer_150,0,rule violating
+officer_150,0,turning
+officer_150,1,other
+officer_151,0,careless driving
+officer_151,0,drunk
+officer_151,1,speed
+officer_151,0,overtake
+officer_151,1,rule violating
+officer_151,1,turning
+officer_151,0,other
+officer_152,1,careless driving
+officer_152,1,drunk
+officer_152,0,speed
+officer_152,1,overtake
+officer_152,0,rule violating
+officer_152,0,turning
+officer_152,0,other
+officer_153,0,careless driving
+officer_153,1,drunk
+officer_153,0,speed
+officer_153,1,overtake
+officer_153,0,rule violating
+officer_153,0,turning
+officer_153,1,other
+officer_154,1,careless driving
+officer_154,1,drunk
+officer_154,1,speed
+officer_154,1,overtake
+officer_154,0,rule violating
+officer_154,1,turning
+officer_154,0,other
+officer_155,1,careless driving
+officer_155,0,drunk
+officer_155,1,speed
+officer_155,0,overtake
+officer_155,1,rule violating
+officer_155,1,turning
+officer_155,1,other
+officer_156,1,careless driving
+officer_156,0,drunk
+officer_156,1,speed
+officer_156,0,overtake
+officer_156,1,rule violating
+officer_156,1,turning
+officer_156,1,other
+officer_157,0,careless driving
+officer_157,0,drunk
+officer_157,0,speed
+officer_157,0,overtake
+officer_157,0,rule violating
+officer_157,1,turning
+officer_157,1,other
+officer_158,0,careless driving
+officer_158,1,drunk
+officer_158,1,speed
+officer_158,0,overtake
+officer_158,0,rule violating
+officer_158,0,turning
+officer_158,0,other
+officer_159,1,careless driving
+officer_159,1,drunk
+officer_159,0,speed
+officer_159,1,overtake
+officer_159,1,rule violating
+officer_159,0,turning
+officer_159,1,other
+officer_160,0,careless driving
+officer_160,0,drunk
+officer_160,1,speed
+officer_160,1,overtake
+officer_160,0,rule violating
+officer_160,0,turning
+officer_160,1,other
+officer_161,0,careless driving
+officer_161,0,drunk
+officer_161,0,speed
+officer_161,0,overtake
+officer_161,1,rule violating
+officer_161,0,turning
+officer_161,1,other
+officer_162,0,careless driving
+officer_162,0,drunk
+officer_162,0,speed
+officer_162,1,overtake
+officer_162,0,rule violating
+officer_162,1,turning
+officer_162,1,other
+officer_163,0,careless driving
+officer_163,0,drunk
+officer_163,1,speed
+officer_163,1,overtake
+officer_163,1,rule violating
+officer_163,1,turning
+officer_163,1,other
+officer_164,0,careless driving
+officer_164,0,drunk
+officer_164,0,speed
+officer_164,1,overtake
+officer_164,1,rule violating
+officer_164,1,turning
+officer_164,0,other
+officer_165,1,careless driving
+officer_165,1,drunk
+officer_165,1,speed
+officer_165,1,overtake
+officer_165,1,rule violating
+officer_165,0,turning
+officer_165,0,other
+officer_166,1,careless driving
+officer_166,1,drunk
+officer_166,0,speed
+officer_166,0,overtake
+officer_166,0,rule violating
+officer_166,0,turning
+officer_166,1,other
+officer_167,1,careless driving
+officer_167,1,drunk
+officer_167,0,speed
+officer_167,1,overtake
+officer_167,1,rule violating
+officer_167,1,turning
+officer_167,1,other
+officer_168,1,careless driving
+officer_168,1,drunk
+officer_168,1,speed
+officer_168,1,overtake
+officer_168,1,rule violating
+officer_168,1,turning
+officer_168,1,other
+officer_169,0,careless driving
+officer_169,1,drunk
+officer_169,1,speed
+officer_169,1,overtake
+officer_169,1,rule violating
+officer_169,1,turning
+officer_169,0,other
+officer_170,1,careless driving
+officer_170,0,drunk
+officer_170,0,speed
+officer_170,1,overtake
+officer_170,1,rule violating
+officer_170,0,turning
+officer_170,0,other
+officer_171,0,careless driving
+officer_171,0,drunk
+officer_171,1,speed
+officer_171,1,overtake
+officer_171,0,rule violating
+officer_171,1,turning
+officer_171,0,other
+officer_172,0,careless driving
+officer_172,0,drunk
+officer_172,0,speed
+officer_172,0,overtake
+officer_172,1,rule violating
+officer_172,1,turning
+officer_172,0,other
+officer_173,0,careless driving
+officer_173,0,drunk
+officer_173,1,speed
+officer_173,1,overtake
+officer_173,0,rule violating
+officer_173,1,turning
+officer_173,1,other
+officer_174,0,careless driving
+officer_174,0,drunk
+officer_174,0,speed
+officer_174,0,overtake
+officer_174,1,rule violating
+officer_174,1,turning
+officer_174,1,other
+officer_175,1,careless driving
+officer_175,0,drunk
+officer_175,0,speed
+officer_175,0,overtake
+officer_175,0,rule violating
+officer_175,1,turning
+officer_175,1,other
+officer_176,1,careless driving
+officer_176,1,drunk
+officer_176,0,speed
+officer_176,0,overtake
+officer_176,0,rule violating
+officer_176,1,turning
+officer_176,0,other
+officer_177,0,careless driving
+officer_177,1,drunk
+officer_177,1,speed
+officer_177,0,overtake
+officer_177,1,rule violating
+officer_177,0,turning
+officer_177,1,other
+officer_178,1,careless driving
+officer_178,0,drunk
+officer_178,1,speed
+officer_178,0,overtake
+officer_178,0,rule violating
+officer_178,1,turning
+officer_178,1,other
+officer_179,1,careless driving
+officer_179,1,drunk
+officer_179,1,speed
+officer_179,1,overtake
+officer_179,0,rule violating
+officer_179,1,turning
+officer_179,0,other
+officer_180,0,careless driving
+officer_180,0,drunk
+officer_180,1,speed
+officer_180,1,overtake
+officer_180,1,rule violating
+officer_180,0,turning
+officer_180,1,other
+officer_181,0,careless driving
+officer_181,0,drunk
+officer_181,0,speed
+officer_181,0,overtake
+officer_181,1,rule violating
+officer_181,0,turning
+officer_181,1,other
+officer_182,1,careless driving
+officer_182,0,drunk
+officer_182,1,speed
+officer_182,1,overtake
+officer_182,0,rule violating
+officer_182,0,turning
+officer_182,0,other
+officer_183,1,careless driving
+officer_183,1,drunk
+officer_183,1,speed
+officer_183,0,overtake
+officer_183,1,rule violating
+officer_183,0,turning
+officer_183,1,other
+officer_184,0,careless driving
+officer_184,0,drunk
+officer_184,0,speed
+officer_184,0,overtake
+officer_184,0,rule violating
+officer_184,0,turning
+officer_184,0,other
+officer_185,0,careless driving
+officer_185,0,drunk
+officer_185,1,speed
+officer_185,0,overtake
+officer_185,0,rule violating
+officer_185,1,turning
+officer_185,1,other
+officer_186,0,careless driving
+officer_186,0,drunk
+officer_186,1,speed
+officer_186,1,overtake
+officer_186,0,rule violating
+officer_186,1,turning
+officer_186,0,other
+officer_187,1,careless driving
+officer_187,0,drunk
+officer_187,0,speed
+officer_187,1,overtake
+officer_187,0,rule violating
+officer_187,1,turning
+officer_187,1,other
+officer_188,0,careless driving
+officer_188,0,drunk
+officer_188,0,speed
+officer_188,1,overtake
+officer_188,1,rule violating
+officer_188,1,turning
+officer_188,0,other
+officer_189,0,careless driving
+officer_189,0,drunk
+officer_189,1,speed
+officer_189,1,overtake
+officer_189,0,rule violating
+officer_189,1,turning
+officer_189,0,other
+officer_190,0,careless driving
+officer_190,1,drunk
+officer_190,0,speed
+officer_190,1,overtake
+officer_190,1,rule violating
+officer_190,1,turning
+officer_190,0,other
+officer_191,1,careless driving
+officer_191,1,drunk
+officer_191,1,speed
+officer_191,1,overtake
+officer_191,1,rule violating
+officer_191,0,turning
+officer_191,1,other
+officer_192,0,careless driving
+officer_192,0,drunk
+officer_192,1,speed
+officer_192,1,overtake
+officer_192,0,rule violating
+officer_192,0,turning
+officer_192,1,other
+officer_193,1,careless driving
+officer_193,0,drunk
+officer_193,0,speed
+officer_193,0,overtake
+officer_193,0,rule violating
+officer_193,0,turning
+officer_193,0,other
+officer_194,1,careless driving
+officer_194,0,drunk
+officer_194,1,speed
+officer_194,0,overtake
+officer_194,0,rule violating
+officer_194,0,turning
+officer_194,1,other
+officer_195,1,careless driving
+officer_195,1,drunk
+officer_195,1,speed
+officer_195,0,overtake
+officer_195,1,rule violating
+officer_195,1,turning
+officer_195,1,other
+officer_196,0,careless driving
+officer_196,1,drunk
+officer_196,0,speed
+officer_196,0,overtake
+officer_196,0,rule violating
+officer_196,0,turning
+officer_196,1,other
+officer_197,1,careless driving
+officer_197,1,drunk
+officer_197,0,speed
+officer_197,1,overtake
+officer_197,1,rule violating
+officer_197,1,turning
+officer_197,1,other
+officer_198,0,careless driving
+officer_198,0,drunk
+officer_198,0,speed
+officer_198,0,overtake
+officer_198,1,rule violating
+officer_198,0,turning
+officer_198,1,other
+officer_199,0,careless driving
+officer_199,0,drunk
+officer_199,1,speed
+officer_199,0,overtake
+officer_199,0,rule violating
+officer_199,0,turning
+officer_199,0,other
+officer_200,0,careless driving
+officer_200,0,drunk
+officer_200,1,speed
+officer_200,0,overtake
+officer_200,0,rule violating
+officer_200,1,turning
+officer_200,1,other
+officer_201,1,careless driving
+officer_201,1,drunk
+officer_201,0,speed
+officer_201,1,overtake
+officer_201,0,rule violating
+officer_201,0,turning
+officer_201,0,other
+officer_202,0,careless driving
+officer_202,1,drunk
+officer_202,0,speed
+officer_202,0,overtake
+officer_202,0,rule violating
+officer_202,0,turning
+officer_202,0,other
+officer_203,1,careless driving
+officer_203,0,drunk
+officer_203,1,speed
+officer_203,0,overtake
+officer_203,1,rule violating
+officer_203,0,turning
+officer_203,1,other
+officer_204,1,careless driving
+officer_204,1,drunk
+officer_204,0,speed
+officer_204,0,overtake
+officer_204,0,rule violating
+officer_204,1,turning
+officer_204,1,other
+officer_205,0,careless driving
+officer_205,1,drunk
+officer_205,1,speed
+officer_205,0,overtake
+officer_205,1,rule violating
+officer_205,1,turning
+officer_205,1,other
+officer_206,1,careless driving
+officer_206,1,drunk
+officer_206,0,speed
+officer_206,1,overtake
+officer_206,0,rule violating
+officer_206,1,turning
+officer_206,0,other
+officer_207,1,careless driving
+officer_207,0,drunk
+officer_207,0,speed
+officer_207,0,overtake
+officer_207,0,rule violating
+officer_207,0,turning
+officer_207,1,other
+officer_208,0,careless driving
+officer_208,1,drunk
+officer_208,0,speed
+officer_208,1,overtake
+officer_208,1,rule violating
+officer_208,0,turning
+officer_208,0,other
+officer_209,1,careless driving
+officer_209,0,drunk
+officer_209,1,speed
+officer_209,1,overtake
+officer_209,0,rule violating
+officer_209,0,turning
+officer_209,1,other
+officer_210,1,careless driving
+officer_210,0,drunk
+officer_210,0,speed
+officer_210,0,overtake
+officer_210,1,rule violating
+officer_210,0,turning
+officer_210,0,other
+officer_211,0,careless driving
+officer_211,1,drunk
+officer_211,0,speed
+officer_211,1,overtake
+officer_211,0,rule violating
+officer_211,0,turning
+officer_211,1,other
+officer_212,0,careless driving
+officer_212,0,drunk
+officer_212,0,speed
+officer_212,0,overtake
+officer_212,0,rule violating
+officer_212,0,turning
+officer_212,0,other
+officer_213,0,careless driving
+officer_213,1,drunk
+officer_213,1,speed
+officer_213,1,overtake
+officer_213,1,rule violating
+officer_213,0,turning
+officer_213,1,other
+officer_214,1,careless driving
+officer_214,1,drunk
+officer_214,1,speed
+officer_214,0,overtake
+officer_214,0,rule violating
+officer_214,0,turning
+officer_214,0,other
+officer_215,0,careless driving
+officer_215,1,drunk
+officer_215,0,speed
+officer_215,1,overtake
+officer_215,0,rule violating
+officer_215,0,turning
+officer_215,0,other
+officer_216,1,careless driving
+officer_216,0,drunk
+officer_216,1,speed
+officer_216,0,overtake
+officer_216,1,rule violating
+officer_216,1,turning
+officer_216,1,other
+officer_217,1,careless driving
+officer_217,0,drunk
+officer_217,0,speed
+officer_217,1,overtake
+officer_217,0,rule violating
+officer_217,0,turning
+officer_217,0,other
+officer_218,1,careless driving
+officer_218,0,drunk
+officer_218,1,speed
+officer_218,0,overtake
+officer_218,1,rule violating
+officer_218,1,turning
+officer_218,0,other
+officer_219,1,careless driving
+officer_219,1,drunk
+officer_219,1,speed
+officer_219,1,overtake
+officer_219,1,rule violating
+officer_219,0,turning
+officer_219,0,other
+officer_220,1,careless driving
+officer_220,0,drunk
+officer_220,1,speed
+officer_220,1,overtake
+officer_220,0,rule violating
+officer_220,0,turning
+officer_220,1,other
+officer_221,1,careless driving
+officer_221,0,drunk
+officer_221,0,speed
+officer_221,1,overtake
+officer_221,1,rule violating
+officer_221,0,turning
+officer_221,1,other
+officer_222,0,careless driving
+officer_222,1,drunk
+officer_222,1,speed
+officer_222,1,overtake
+officer_222,0,rule violating
+officer_222,0,turning
+officer_222,1,other
+officer_223,0,careless driving
+officer_223,0,drunk
+officer_223,1,speed
+officer_223,0,overtake
+officer_223,0,rule violating
+officer_223,0,turning
+officer_223,0,other
+officer_224,0,careless driving
+officer_224,0,drunk
+officer_224,1,speed
+officer_224,1,overtake
+officer_224,1,rule violating
+officer_224,1,turning
+officer_224,0,other
+officer_225,1,careless driving
+officer_225,1,drunk
+officer_225,1,speed
+officer_225,1,overtake
+officer_225,0,rule violating
+officer_225,1,turning
+officer_225,1,other
+officer_226,0,careless driving
+officer_226,0,drunk
+officer_226,0,speed
+officer_226,1,overtake
+officer_226,1,rule violating
+officer_226,0,turning
+officer_226,1,other
+officer_227,0,careless driving
+officer_227,0,drunk
+officer_227,1,speed
+officer_227,1,overtake
+officer_227,0,rule violating
+officer_227,0,turning
+officer_227,1,other
+officer_228,1,careless driving
+officer_228,1,drunk
+officer_228,0,speed
+officer_228,0,overtake
+officer_228,1,rule violating
+officer_228,1,turning
+officer_228,0,other
+officer_229,0,careless driving
+officer_229,0,drunk
+officer_229,1,speed
+officer_229,1,overtake
+officer_229,0,rule violating
+officer_229,0,turning
+officer_229,0,other
+officer_230,1,careless driving
+officer_230,0,drunk
+officer_230,0,speed
+officer_230,0,overtake
+officer_230,1,rule violating
+officer_230,1,turning
+officer_230,1,other
+officer_231,1,careless driving
+officer_231,0,drunk
+officer_231,0,speed
+officer_231,1,overtake
+officer_231,1,rule violating
+officer_231,0,turning
+officer_231,0,other
+officer_232,1,careless driving
+officer_232,0,drunk
+officer_232,1,speed
+officer_232,1,overtake
+officer_232,1,rule violating
+officer_232,0,turning
+officer_232,0,other
+officer_233,1,careless driving
+officer_233,0,drunk
+officer_233,0,speed
+officer_233,1,overtake
+officer_233,1,rule violating
+officer_233,1,turning
+officer_233,1,other
+officer_234,1,careless driving
+officer_234,0,drunk
+officer_234,1,speed
+officer_234,1,overtake
+officer_234,1,rule violating
+officer_234,1,turning
+officer_234,0,other
+officer_235,0,careless driving
+officer_235,1,drunk
+officer_235,0,speed
+officer_235,0,overtake
+officer_235,0,rule violating
+officer_235,1,turning
+officer_235,0,other
+officer_236,0,careless driving
+officer_236,0,drunk
+officer_236,0,speed
+officer_236,0,overtake
+officer_236,0,rule violating
+officer_236,0,turning
+officer_236,1,other
+officer_237,1,careless driving
+officer_237,1,drunk
+officer_237,0,speed
+officer_237,0,overtake
+officer_237,1,rule violating
+officer_237,1,turning
+officer_237,1,other
+officer_238,0,careless driving
+officer_238,1,drunk
+officer_238,0,speed
+officer_238,0,overtake
+officer_238,0,rule violating
+officer_238,0,turning
+officer_238,0,other
+officer_239,1,careless driving
+officer_239,1,drunk
+officer_239,0,speed
+officer_239,1,overtake
+officer_239,1,rule violating
+officer_239,1,turning
+officer_239,0,other
+officer_240,0,careless driving
+officer_240,0,drunk
+officer_240,1,speed
+officer_240,0,overtake
+officer_240,1,rule violating
+officer_240,1,turning
+officer_240,1,other
+officer_241,0,careless driving
+officer_241,1,drunk
+officer_241,1,speed
+officer_241,1,overtake
+officer_241,0,rule violating
+officer_241,1,turning
+officer_241,0,other
+officer_242,1,careless driving
+officer_242,0,drunk
+officer_242,0,speed
+officer_242,1,overtake
+officer_242,0,rule violating
+officer_242,0,turning
+officer_242,0,other
+officer_243,1,careless driving
+officer_243,0,drunk
+officer_243,0,speed
+officer_243,1,overtake
+officer_243,0,rule violating
+officer_243,0,turning
+officer_243,1,other
+officer_244,0,careless driving
+officer_244,0,drunk
+officer_244,1,speed
+officer_244,1,overtake
+officer_244,1,rule violating
+officer_244,0,turning
+officer_244,1,other
+officer_245,0,careless driving
+officer_245,1,drunk
+officer_245,0,speed
+officer_245,0,overtake
+officer_245,0,rule violating
+officer_245,0,turning
+officer_245,0,other
+officer_246,0,careless driving
+officer_246,1,drunk
+officer_246,0,speed
+officer_246,1,overtake
+officer_246,1,rule violating
+officer_246,0,turning
+officer_246,1,other
+officer_247,1,careless driving
+officer_247,0,drunk
+officer_247,1,speed
+officer_247,1,overtake
+officer_247,0,rule violating
+officer_247,0,turning
+officer_247,1,other
+officer_248,0,careless driving
+officer_248,1,drunk
+officer_248,0,speed
+officer_248,0,overtake
+officer_248,0,rule violating
+officer_248,0,turning
+officer_248,0,other
+officer_249,1,careless driving
+officer_249,0,drunk
+officer_249,1,speed
+officer_249,0,overtake
+officer_249,0,rule violating
+officer_249,1,turning
+officer_249,0,other
+officer_250,1,careless driving
+officer_250,1,drunk
+officer_250,0,speed
+officer_250,1,overtake
+officer_250,0,rule violating
+officer_250,1,turning
+officer_250,0,other
+officer_251,1,careless driving
+officer_251,0,drunk
+officer_251,0,speed
+officer_251,1,overtake
+officer_251,1,rule violating
+officer_251,0,turning
+officer_251,0,other
+officer_252,0,careless driving
+officer_252,1,drunk
+officer_252,1,speed
+officer_252,1,overtake
+officer_252,1,rule violating
+officer_252,0,turning
+officer_252,0,other
+officer_253,0,careless driving
+officer_253,0,drunk
+officer_253,1,speed
+officer_253,0,overtake
+officer_253,1,rule violating
+officer_253,0,turning
+officer_253,0,other
+officer_254,0,careless driving
+officer_254,1,drunk
+officer_254,0,speed
+officer_254,1,overtake
+officer_254,0,rule violating
+officer_254,0,turning
+officer_254,1,other
+officer_255,0,careless driving
+officer_255,0,drunk
+officer_255,0,speed
+officer_255,0,overtake
+officer_255,1,rule violating
+officer_255,1,turning
+officer_255,1,other
+officer_256,1,careless driving
+officer_256,1,drunk
+officer_256,1,speed
+officer_256,1,overtake
+officer_256,1,rule violating
+officer_256,0,turning
+officer_256,0,other
+officer_257,0,careless driving
+officer_257,0,drunk
+officer_257,0,speed
+officer_257,1,overtake
+officer_257,0,rule violating
+officer_257,0,turning
+officer_257,1,other
+officer_258,0,careless driving
+officer_258,0,drunk
+officer_258,1,speed
+officer_258,0,overtake
+officer_258,1,rule violating
+officer_258,0,turning
+officer_258,0,other
+officer_259,0,careless driving
+officer_259,1,drunk
+officer_259,1,speed
+officer_259,1,overtake
+officer_259,1,rule violating
+officer_259,1,turning
+officer_259,1,other
+officer_260,1,careless driving
+officer_260,0,drunk
+officer_260,0,speed
+officer_260,1,overtake
+officer_260,1,rule violating
+officer_260,0,turning
+officer_260,1,other
+officer_261,0,careless driving
+officer_261,0,drunk
+officer_261,0,speed
+officer_261,0,overtake
+officer_261,0,rule violating
+officer_261,0,turning
+officer_261,1,other
+officer_262,1,careless driving
+officer_262,0,drunk
+officer_262,1,speed
+officer_262,1,overtake
+officer_262,0,rule violating
+officer_262,0,turning
+officer_262,0,other
+officer_263,1,careless driving
+officer_263,1,drunk
+officer_263,1,speed
+officer_263,1,overtake
+officer_263,1,rule violating
+officer_263,1,turning
+officer_263,0,other
+officer_264,1,careless driving
+officer_264,0,drunk
+officer_264,1,speed
+officer_264,0,overtake
+officer_264,0,rule violating
+officer_264,0,turning
+officer_264,1,other
+officer_265,0,careless driving
+officer_265,0,drunk
+officer_265,0,speed
+officer_265,0,overtake
+officer_265,1,rule violating
+officer_265,0,turning
+officer_265,0,other
+officer_266,0,careless driving
+officer_266,0,drunk
+officer_266,1,speed
+officer_266,1,overtake
+officer_266,0,rule violating
+officer_266,0,turning
+officer_266,1,other
+officer_267,1,careless driving
+officer_267,0,drunk
+officer_267,0,speed
+officer_267,0,overtake
+officer_267,1,rule violating
+officer_267,1,turning
+officer_267,0,other
+officer_268,0,careless driving
+officer_268,0,drunk
+officer_268,0,speed
+officer_268,0,overtake
+officer_268,0,rule violating
+officer_268,0,turning
+officer_268,1,other
+officer_269,1,careless driving
+officer_269,1,drunk
+officer_269,1,speed
+officer_269,0,overtake
+officer_269,0,rule violating
+officer_269,0,turning
+officer_269,0,other
+officer_270,0,careless driving
+officer_270,0,drunk
+officer_270,1,speed
+officer_270,1,overtake
+officer_270,0,rule violating
+officer_270,1,turning
+officer_270,0,other
+officer_271,1,careless driving
+officer_271,1,drunk
+officer_271,1,speed
+officer_271,1,overtake
+officer_271,0,rule violating
+officer_271,1,turning
+officer_271,1,other
+officer_272,0,careless driving
+officer_272,1,drunk
+officer_272,1,speed
+officer_272,0,overtake
+officer_272,0,rule violating
+officer_272,0,turning
+officer_272,0,other
+officer_273,1,careless driving
+officer_273,0,drunk
+officer_273,1,speed
+officer_273,0,overtake
+officer_273,1,rule violating
+officer_273,1,turning
+officer_273,0,other
+officer_274,1,careless driving
+officer_274,1,drunk
+officer_274,0,speed
+officer_274,0,overtake
+officer_274,0,rule violating
+officer_274,0,turning
+officer_274,0,other
+officer_275,1,careless driving
+officer_275,0,drunk
+officer_275,0,speed
+officer_275,1,overtake
+officer_275,0,rule violating
+officer_275,1,turning
+officer_275,0,other
+officer_276,1,careless driving
+officer_276,0,drunk
+officer_276,0,speed
+officer_276,0,overtake
+officer_276,0,rule violating
+officer_276,1,turning
+officer_276,1,other
+officer_277,1,careless driving
+officer_277,0,drunk
+officer_277,1,speed
+officer_277,1,overtake
+officer_277,1,rule violating
+officer_277,0,turning
+officer_277,1,other
+officer_278,1,careless driving
+officer_278,1,drunk
+officer_278,0,speed
+officer_278,0,overtake
+officer_278,0,rule violating
+officer_278,1,turning
+officer_278,1,other
+officer_279,1,careless driving
+officer_279,0,drunk
+officer_279,1,speed
+officer_279,1,overtake
+officer_279,0,rule violating
+officer_279,1,turning
+officer_279,0,other
+officer_280,0,careless driving
+officer_280,1,drunk
+officer_280,0,speed
+officer_280,0,overtake
+officer_280,0,rule violating
+officer_280,0,turning
+officer_280,1,other
+officer_281,0,careless driving
+officer_281,0,drunk
+officer_281,1,speed
+officer_281,0,overtake
+officer_281,1,rule violating
+officer_281,1,turning
+officer_281,1,other
+officer_282,0,careless driving
+officer_282,0,drunk
+officer_282,1,speed
+officer_282,1,overtake
+officer_282,0,rule violating
+officer_282,0,turning
+officer_282,1,other
+officer_283,1,careless driving
+officer_283,0,drunk
+officer_283,1,speed
+officer_283,0,overtake
+officer_283,1,rule violating
+officer_283,0,turning
+officer_283,1,other
+officer_284,1,careless driving
+officer_284,1,drunk
+officer_284,0,speed
+officer_284,1,overtake
+officer_284,1,rule violating
+officer_284,1,turning
+officer_284,0,other
+officer_285,1,careless driving
+officer_285,0,drunk
+officer_285,0,speed
+officer_285,1,overtake
+officer_285,1,rule violating
+officer_285,0,turning
+officer_285,1,other
+officer_286,1,careless driving
+officer_286,0,drunk
+officer_286,1,speed
+officer_286,0,overtake
+officer_286,1,rule violating
+officer_286,0,turning
+officer_286,1,other
+officer_287,1,careless driving
+officer_287,1,drunk
+officer_287,0,speed
+officer_287,1,overtake
+officer_287,1,rule violating
+officer_287,0,turning
+officer_287,0,other
+officer_288,1,careless driving
+officer_288,0,drunk
+officer_288,1,speed
+officer_288,0,overtake
+officer_288,1,rule violating
+officer_288,0,turning
+officer_288,1,other
+officer_289,0,careless driving
+officer_289,1,drunk
+officer_289,1,speed
+officer_289,1,overtake
+officer_289,1,rule violating
+officer_289,0,turning
+officer_289,0,other
+officer_290,0,careless driving
+officer_290,0,drunk
+officer_290,1,speed
+officer_290,0,overtake
+officer_290,0,rule violating
+officer_290,0,turning
+officer_290,0,other
+officer_291,1,careless driving
+officer_291,0,drunk
+officer_291,0,speed
+officer_291,0,overtake
+officer_291,0,rule violating
+officer_291,1,turning
+officer_291,0,other
+officer_292,1,careless driving
+officer_292,1,drunk
+officer_292,0,speed
+officer_292,1,overtake
+officer_292,1,rule violating
+officer_292,1,turning
+officer_292,0,other
+officer_293,0,careless driving
+officer_293,0,drunk
+officer_293,0,speed
+officer_293,1,overtake
+officer_293,1,rule violating
+officer_293,0,turning
+officer_293,1,other
+officer_294,0,careless driving
+officer_294,1,drunk
+officer_294,1,speed
+officer_294,0,overtake
+officer_294,0,rule violating
+officer_294,0,turning
+officer_294,1,other
+officer_295,0,careless driving
+officer_295,1,drunk
+officer_295,1,speed
+officer_295,1,overtake
+officer_295,1,rule violating
+officer_295,1,turning
+officer_295,1,other
+officer_296,0,careless driving
+officer_296,0,drunk
+officer_296,1,speed
+officer_296,1,overtake
+officer_296,1,rule violating
+officer_296,0,turning
+officer_296,1,other
+officer_297,0,careless driving
+officer_297,0,drunk
+officer_297,0,speed
+officer_297,1,overtake
+officer_297,1,rule violating
+officer_297,1,turning
+officer_297,1,other
+officer_298,1,careless driving
+officer_298,1,drunk
+officer_298,0,speed
+officer_298,0,overtake
+officer_298,0,rule violating
+officer_298,0,turning
+officer_298,1,other
+officer_299,0,careless driving
+officer_299,0,drunk
+officer_299,1,speed
+officer_299,0,overtake
+officer_299,0,rule violating
+officer_299,1,turning
+officer_299,0,other
+officer_300,0,careless driving
+officer_300,1,drunk
+officer_300,0,speed
+officer_300,0,overtake
+officer_300,1,rule violating
+officer_300,1,turning
+officer_300,1,other
+officer_301,0,careless driving
+officer_301,1,drunk
+officer_301,1,speed
+officer_301,0,overtake
+officer_301,1,rule violating
+officer_301,0,turning
+officer_301,1,other
+officer_302,1,careless driving
+officer_302,1,drunk
+officer_302,1,speed
+officer_302,1,overtake
+officer_302,0,rule violating
+officer_302,0,turning
+officer_302,1,other
+officer_303,0,careless driving
+officer_303,0,drunk
+officer_303,0,speed
+officer_303,0,overtake
+officer_303,1,rule violating
+officer_303,1,turning
+officer_303,0,other
+officer_304,1,careless driving
+officer_304,0,drunk
+officer_304,0,speed
+officer_304,0,overtake
+officer_304,0,rule violating
+officer_304,1,turning
+officer_304,1,other
+officer_305,0,careless driving
+officer_305,1,drunk
+officer_305,0,speed
+officer_305,0,overtake
+officer_305,1,rule violating
+officer_305,1,turning
+officer_305,1,other
+officer_306,0,careless driving
+officer_306,0,drunk
+officer_306,0,speed
+officer_306,1,overtake
+officer_306,1,rule violating
+officer_306,0,turning
+officer_306,0,other
+officer_307,1,careless driving
+officer_307,0,drunk
+officer_307,0,speed
+officer_307,0,overtake
+officer_307,1,rule violating
+officer_307,0,turning
+officer_307,1,other
+officer_308,1,careless driving
+officer_308,1,drunk
+officer_308,1,speed
+officer_308,1,overtake
+officer_308,1,rule violating
+officer_308,1,turning
+officer_308,1,other
+officer_309,0,careless driving
+officer_309,1,drunk
+officer_309,0,speed
+officer_309,0,overtake
+officer_309,1,rule violating
+officer_309,0,turning
+officer_309,1,other
+officer_310,1,careless driving
+officer_310,1,drunk
+officer_310,1,speed
+officer_310,0,overtake
+officer_310,0,rule violating
+officer_310,0,turning
+officer_310,1,other
+officer_311,0,careless driving
+officer_311,1,drunk
+officer_311,1,speed
+officer_311,1,overtake
+officer_311,1,rule violating
+officer_311,0,turning
+officer_311,1,other
+officer_312,0,careless driving
+officer_312,1,drunk
+officer_312,1,speed
+officer_312,1,overtake
+officer_312,1,rule violating
+officer_312,0,turning
+officer_312,0,other
+officer_313,0,careless driving
+officer_313,1,drunk
+officer_313,1,speed
+officer_313,0,overtake
+officer_313,0,rule violating
+officer_313,0,turning
+officer_313,0,other
+officer_314,0,careless driving
+officer_314,1,drunk
+officer_314,1,speed
+officer_314,1,overtake
+officer_314,1,rule violating
+officer_314,1,turning
+officer_314,1,other
+officer_315,1,careless driving
+officer_315,0,drunk
+officer_315,1,speed
+officer_315,0,overtake
+officer_315,0,rule violating
+officer_315,1,turning
+officer_315,0,other
+officer_316,0,careless driving
+officer_316,1,drunk
+officer_316,1,speed
+officer_316,0,overtake
+officer_316,0,rule violating
+officer_316,0,turning
+officer_316,1,other
+officer_317,0,careless driving
+officer_317,0,drunk
+officer_317,0,speed
+officer_317,0,overtake
+officer_317,0,rule violating
+officer_317,1,turning
+officer_317,1,other
+officer_318,0,careless driving
+officer_318,0,drunk
+officer_318,1,speed
+officer_318,1,overtake
+officer_318,1,rule violating
+officer_318,1,turning
+officer_318,1,other
+officer_319,0,careless driving
+officer_319,1,drunk
+officer_319,0,speed
+officer_319,1,overtake
+officer_319,1,rule violating
+officer_319,1,turning
+officer_319,1,other
+officer_320,1,careless driving
+officer_320,1,drunk
+officer_320,0,speed
+officer_320,1,overtake
+officer_320,1,rule violating
+officer_320,0,turning
+officer_320,0,other
+officer_321,1,careless driving
+officer_321,0,drunk
+officer_321,1,speed
+officer_321,1,overtake
+officer_321,1,rule violating
+officer_321,1,turning
+officer_321,0,other
+officer_322,1,careless driving
+officer_322,1,drunk
+officer_322,0,speed
+officer_322,0,overtake
+officer_322,0,rule violating
+officer_322,1,turning
+officer_322,0,other
+officer_323,0,careless driving
+officer_323,1,drunk
+officer_323,0,speed
+officer_323,0,overtake
+officer_323,1,rule violating
+officer_323,0,turning
+officer_323,1,other
+officer_324,1,careless driving
+officer_324,1,drunk
+officer_324,1,speed
+officer_324,1,overtake
+officer_324,0,rule violating
+officer_324,1,turning
+officer_324,1,other
+officer_325,0,careless driving
+officer_325,1,drunk
+officer_325,0,speed
+officer_325,0,overtake
+officer_325,0,rule violating
+officer_325,1,turning
+officer_325,1,other
+officer_326,1,careless driving
+officer_326,1,drunk
+officer_326,1,speed
+officer_326,1,overtake
+officer_326,0,rule violating
+officer_326,0,turning
+officer_326,1,other
+officer_327,0,careless driving
+officer_327,0,drunk
+officer_327,1,speed
+officer_327,0,overtake
+officer_327,1,rule violating
+officer_327,0,turning
+officer_327,1,other
+officer_328,1,careless driving
+officer_328,1,drunk
+officer_328,0,speed
+officer_328,0,overtake
+officer_328,1,rule violating
+officer_328,1,turning
+officer_328,1,other
+officer_329,0,careless driving
+officer_329,1,drunk
+officer_329,1,speed
+officer_329,0,overtake
+officer_329,0,rule violating
+officer_329,1,turning
+officer_329,0,other
+officer_330,1,careless driving
+officer_330,0,drunk
+officer_330,0,speed
+officer_330,1,overtake
+officer_330,0,rule violating
+officer_330,0,turning
+officer_330,1,other
+officer_331,0,careless driving
+officer_331,0,drunk
+officer_331,0,speed
+officer_331,0,overtake
+officer_331,1,rule violating
+officer_331,1,turning
+officer_331,0,other
+officer_332,1,careless driving
+officer_332,0,drunk
+officer_332,1,speed
+officer_332,1,overtake
+officer_332,1,rule violating
+officer_332,0,turning
+officer_332,1,other
+officer_333,1,careless driving
+officer_333,1,drunk
+officer_333,0,speed
+officer_333,0,overtake
+officer_333,1,rule violating
+officer_333,1,turning
+officer_333,1,other
+officer_334,0,careless driving
+officer_334,1,drunk
+officer_334,1,speed
+officer_334,1,overtake
+officer_334,1,rule violating
+officer_334,0,turning
+officer_334,0,other
+officer_335,0,careless driving
+officer_335,1,drunk
+officer_335,0,speed
+officer_335,1,overtake
+officer_335,0,rule violating
+officer_335,0,turning
+officer_335,1,other
+officer_336,1,careless driving
+officer_336,1,drunk
+officer_336,1,speed
+officer_336,0,overtake
+officer_336,0,rule violating
+officer_336,1,turning
+officer_336,1,other
+officer_337,0,careless driving
+officer_337,0,drunk
+officer_337,0,speed
+officer_337,1,overtake
+officer_337,1,rule violating
+officer_337,1,turning
+officer_337,0,other
+officer_338,0,careless driving
+officer_338,1,drunk
+officer_338,0,speed
+officer_338,0,overtake
+officer_338,0,rule violating
+officer_338,0,turning
+officer_338,1,other
+officer_339,1,careless driving
+officer_339,1,drunk
+officer_339,0,speed
+officer_339,0,overtake
+officer_339,0,rule violating
+officer_339,1,turning
+officer_339,0,other
+officer_340,1,careless driving
+officer_340,1,drunk
+officer_340,0,speed
+officer_340,0,overtake
+officer_340,0,rule violating
+officer_340,0,turning
+officer_340,0,other
+officer_341,1,careless driving
+officer_341,0,drunk
+officer_341,1,speed
+officer_341,0,overtake
+officer_341,1,rule violating
+officer_341,1,turning
+officer_341,1,other
+officer_342,1,careless driving
+officer_342,1,drunk
+officer_342,1,speed
+officer_342,1,overtake
+officer_342,1,rule violating
+officer_342,0,turning
+officer_342,1,other
+officer_343,0,careless driving
+officer_343,0,drunk
+officer_343,1,speed
+officer_343,1,overtake
+officer_343,0,rule violating
+officer_343,0,turning
+officer_343,1,other
+officer_344,0,careless driving
+officer_344,1,drunk
+officer_344,1,speed
+officer_344,0,overtake
+officer_344,0,rule violating
+officer_344,1,turning
+officer_344,1,other
+officer_345,1,careless driving
+officer_345,1,drunk
+officer_345,1,speed
+officer_345,0,overtake
+officer_345,1,rule violating
+officer_345,1,turning
+officer_345,0,other
+officer_346,1,careless driving
+officer_346,0,drunk
+officer_346,1,speed
+officer_346,1,overtake
+officer_346,0,rule violating
+officer_346,0,turning
+officer_346,0,other
+officer_347,0,careless driving
+officer_347,1,drunk
+officer_347,0,speed
+officer_347,1,overtake
+officer_347,0,rule violating
+officer_347,1,turning
+officer_347,1,other
+officer_348,1,careless driving
+officer_348,0,drunk
+officer_348,0,speed
+officer_348,0,overtake
+officer_348,0,rule violating
+officer_348,1,turning
+officer_348,0,other
+officer_349,0,careless driving
+officer_349,1,drunk
+officer_349,1,speed
+officer_349,0,overtake
+officer_349,0,rule violating
+officer_349,0,turning
+officer_349,0,other
+officer_350,1,careless driving
+officer_350,1,drunk
+officer_350,0,speed
+officer_350,0,overtake
+officer_350,1,rule violating
+officer_350,0,turning
+officer_350,1,other
+officer_351,0,careless driving
+officer_351,1,drunk
+officer_351,0,speed
+officer_351,0,overtake
+officer_351,0,rule violating
+officer_351,1,turning
+officer_351,1,other
+officer_352,0,careless driving
+officer_352,0,drunk
+officer_352,0,speed
+officer_352,1,overtake
+officer_352,1,rule violating
+officer_352,1,turning
+officer_352,0,other
+officer_353,1,careless driving
+officer_353,1,drunk
+officer_353,1,speed
+officer_353,0,overtake
+officer_353,1,rule violating
+officer_353,0,turning
+officer_353,1,other
+officer_354,1,careless driving
+officer_354,0,drunk
+officer_354,0,speed
+officer_354,0,overtake
+officer_354,1,rule violating
+officer_354,1,turning
+officer_354,0,other
+officer_355,0,careless driving
+officer_355,1,drunk
+officer_355,0,speed
+officer_355,1,overtake
+officer_355,1,rule violating
+officer_355,0,turning
+officer_355,0,other
+officer_356,1,careless driving
+officer_356,1,drunk
+officer_356,1,speed
+officer_356,1,overtake
+officer_356,0,rule violating
+officer_356,0,turning
+officer_356,1,other
+officer_357,0,careless driving
+officer_357,0,drunk
+officer_357,0,speed
+officer_357,0,overtake
+officer_357,1,rule violating
+officer_357,0,turning
+officer_357,0,other
+officer_358,1,careless driving
+officer_358,0,drunk
+officer_358,0,speed
+officer_358,0,overtake
+officer_358,1,rule violating
+officer_358,1,turning
+officer_358,1,other
+officer_359,0,careless driving
+officer_359,1,drunk
+officer_359,1,speed
+officer_359,1,overtake
+officer_359,1,rule violating
+officer_359,0,turning
+officer_359,0,other
+officer_360,1,careless driving
+officer_360,1,drunk
+officer_360,0,speed
+officer_360,1,overtake
+officer_360,0,rule violating
+officer_360,0,turning
+officer_360,1,other
+officer_361,1,careless driving
+officer_361,0,drunk
+officer_361,1,speed
+officer_361,1,overtake
+officer_361,1,rule violating
+officer_361,0,turning
+officer_361,1,other
+officer_362,1,careless driving
+officer_362,1,drunk
+officer_362,0,speed
+officer_362,0,overtake
+officer_362,1,rule violating
+officer_362,0,turning
+officer_362,0,other
+officer_363,1,careless driving
+officer_363,1,drunk
+officer_363,0,speed
+officer_363,0,overtake
+officer_363,1,rule violating
+officer_363,0,turning
+officer_363,0,other
+officer_364,1,careless driving
+officer_364,1,drunk
+officer_364,1,speed
+officer_364,0,overtake
+officer_364,0,rule violating
+officer_364,0,turning
+officer_364,1,other
+officer_365,0,careless driving
+officer_365,0,drunk
+officer_365,0,speed
+officer_365,1,overtake
+officer_365,0,rule violating
+officer_365,1,turning
+officer_365,0,other
+officer_366,1,careless driving
+officer_366,1,drunk
+officer_366,1,speed
+officer_366,1,overtake
+officer_366,0,rule violating
+officer_366,1,turning
+officer_366,1,other
+officer_367,0,careless driving
+officer_367,1,drunk
+officer_367,1,speed
+officer_367,0,overtake
+officer_367,0,rule violating
+officer_367,1,turning
+officer_367,1,other
+officer_368,0,careless driving
+officer_368,1,drunk
+officer_368,0,speed
+officer_368,0,overtake
+officer_368,0,rule violating
+officer_368,0,turning
+officer_368,1,other
+officer_369,1,careless driving
+officer_369,0,drunk
+officer_369,1,speed
+officer_369,0,overtake
+officer_369,0,rule violating
+officer_369,1,turning
+officer_369,1,other
+officer_370,1,careless driving
+officer_370,0,drunk
+officer_370,0,speed
+officer_370,0,overtake
+officer_370,0,rule violating
+officer_370,1,turning
+officer_370,0,other
+officer_371,1,careless driving
+officer_371,1,drunk
+officer_371,1,speed
+officer_371,0,overtake
+officer_371,1,rule violating
+officer_371,0,turning
+officer_371,1,other
+officer_372,1,careless driving
+officer_372,1,drunk
+officer_372,1,speed
+officer_372,1,overtake
+officer_372,1,rule violating
+officer_372,0,turning
+officer_372,1,other
+officer_373,0,careless driving
+officer_373,1,drunk
+officer_373,0,speed
+officer_373,1,overtake
+officer_373,1,rule violating
+officer_373,1,turning
+officer_373,0,other
+officer_374,0,careless driving
+officer_374,1,drunk
+officer_374,1,speed
+officer_374,1,overtake
+officer_374,1,rule violating
+officer_374,0,turning
+officer_374,1,other
+officer_375,0,careless driving
+officer_375,1,drunk
+officer_375,0,speed
+officer_375,1,overtake
+officer_375,1,rule violating
+officer_375,0,turning
+officer_375,0,other
+officer_376,0,careless driving
+officer_376,0,drunk
+officer_376,0,speed
+officer_376,1,overtake
+officer_376,0,rule violating
+officer_376,0,turning
+officer_376,0,other
+officer_377,0,careless driving
+officer_377,1,drunk
+officer_377,1,speed
+officer_377,1,overtake
+officer_377,0,rule violating
+officer_377,0,turning
+officer_377,1,other
+officer_378,1,careless driving
+officer_378,0,drunk
+officer_378,1,speed
+officer_378,0,overtake
+officer_378,0,rule violating
+officer_378,0,turning
+officer_378,0,other
+officer_379,0,careless driving
+officer_379,1,drunk
+officer_379,1,speed
+officer_379,0,overtake
+officer_379,1,rule violating
+officer_379,0,turning
+officer_379,1,other
+officer_380,0,careless driving
+officer_380,0,drunk
+officer_380,1,speed
+officer_380,1,overtake
+officer_380,0,rule violating
+officer_380,1,turning
+officer_380,0,other
+officer_381,1,careless driving
+officer_381,1,drunk
+officer_381,0,speed
+officer_381,0,overtake
+officer_381,0,rule violating
+officer_381,0,turning
+officer_381,0,other
+officer_382,1,careless driving
+officer_382,0,drunk
+officer_382,1,speed
+officer_382,1,overtake
+officer_382,0,rule violating
+officer_382,1,turning
+officer_382,0,other
+officer_383,1,careless driving
+officer_383,0,drunk
+officer_383,1,speed
+officer_383,0,overtake
+officer_383,0,rule violating
+officer_383,0,turning
+officer_383,1,other
+officer_384,1,careless driving
+officer_384,0,drunk
+officer_384,1,speed
+officer_384,0,overtake
+officer_384,0,rule violating
+officer_384,1,turning
+officer_384,1,other
+officer_385,1,careless driving
+officer_385,1,drunk
+officer_385,1,speed
+officer_385,1,overtake
+officer_385,1,rule violating
+officer_385,1,turning
+officer_385,0,other
+officer_386,1,careless driving
+officer_386,0,drunk
+officer_386,0,speed
+officer_386,0,overtake
+officer_386,0,rule violating
+officer_386,1,turning
+officer_386,1,other
+officer_387,1,careless driving
+officer_387,0,drunk
+officer_387,1,speed
+officer_387,0,overtake
+officer_387,1,rule violating
+officer_387,0,turning
+officer_387,0,other
+officer_388,0,careless driving
+officer_388,1,drunk
+officer_388,0,speed
+officer_388,0,overtake
+officer_388,1,rule violating
+officer_388,0,turning
+officer_388,1,other
+officer_389,1,careless driving
+officer_389,0,drunk
+officer_389,1,speed
+officer_389,1,overtake
+officer_389,1,rule violating
+officer_389,1,turning
+officer_389,0,other
+officer_390,0,careless driving
+officer_390,1,drunk
+officer_390,0,speed
+officer_390,1,overtake
+officer_390,0,rule violating
+officer_390,1,turning
+officer_390,1,other
+officer_391,0,careless driving
+officer_391,0,drunk
+officer_391,0,speed
+officer_391,0,overtake
+officer_391,1,rule violating
+officer_391,1,turning
+officer_391,1,other
+officer_392,1,careless driving
+officer_392,0,drunk
+officer_392,0,speed
+officer_392,0,overtake
+officer_392,0,rule violating
+officer_392,0,turning
+officer_392,1,other
+officer_393,1,careless driving
+officer_393,0,drunk
+officer_393,0,speed
+officer_393,0,overtake
+officer_393,0,rule violating
+officer_393,0,turning
+officer_393,0,other
+officer_394,1,careless driving
+officer_394,0,drunk
+officer_394,0,speed
+officer_394,1,overtake
+officer_394,0,rule violating
+officer_394,1,turning
+officer_394,1,other
+officer_395,0,careless driving
+officer_395,0,drunk
+officer_395,0,speed
+officer_395,1,overtake
+officer_395,0,rule violating
+officer_395,1,turning
+officer_395,0,other
+officer_396,0,careless driving
+officer_396,0,drunk
+officer_396,1,speed
+officer_396,1,overtake
+officer_396,1,rule violating
+officer_396,1,turning
+officer_396,0,other
+officer_397,0,careless driving
+officer_397,1,drunk
+officer_397,1,speed
+officer_397,0,overtake
+officer_397,0,rule violating
+officer_397,0,turning
+officer_397,0,other
+officer_398,0,careless driving
+officer_398,0,drunk
+officer_398,0,speed
+officer_398,0,overtake
+officer_398,0,rule violating
+officer_398,0,turning
+officer_398,0,other
+officer_399,1,careless driving
+officer_399,1,drunk
+officer_399,0,speed
+officer_399,1,overtake
+officer_399,0,rule violating
+officer_399,0,turning
+officer_399,1,other
+officer_400,0,careless driving
+officer_400,1,drunk
+officer_400,0,speed
+officer_400,0,overtake
+officer_400,0,rule violating
+officer_400,1,turning
+officer_400,1,other
+officer_401,1,careless driving
+officer_401,0,drunk
+officer_401,0,speed
+officer_401,0,overtake
+officer_401,1,rule violating
+officer_401,1,turning
+officer_401,1,other
+officer_402,1,careless driving
+officer_402,0,drunk
+officer_402,1,speed
+officer_402,1,overtake
+officer_402,0,rule violating
+officer_402,0,turning
+officer_402,1,other
+officer_403,0,careless driving
+officer_403,0,drunk
+officer_403,0,speed
+officer_403,0,overtake
+officer_403,0,rule violating
+officer_403,0,turning
+officer_403,1,other
+officer_404,0,careless driving
+officer_404,1,drunk
+officer_404,0,speed
+officer_404,0,overtake
+officer_404,1,rule violating
+officer_404,1,turning
+officer_404,1,other
+officer_405,1,careless driving
+officer_405,0,drunk
+officer_405,1,speed
+officer_405,0,overtake
+officer_405,1,rule violating
+officer_405,0,turning
+officer_405,1,other
+officer_406,0,careless driving
+officer_406,1,drunk
+officer_406,0,speed
+officer_406,1,overtake
+officer_406,0,rule violating
+officer_406,1,turning
+officer_406,1,other
+officer_407,0,careless driving
+officer_407,0,drunk
+officer_407,1,speed
+officer_407,1,overtake
+officer_407,1,rule violating
+officer_407,1,turning
+officer_407,1,other
+officer_408,1,careless driving
+officer_408,1,drunk
+officer_408,0,speed
+officer_408,1,overtake
+officer_408,0,rule violating
+officer_408,1,turning
+officer_408,0,other
+officer_409,0,careless driving
+officer_409,1,drunk
+officer_409,0,speed
+officer_409,1,overtake
+officer_409,0,rule violating
+officer_409,0,turning
+officer_409,0,other
+officer_410,1,careless driving
+officer_410,0,drunk
+officer_410,0,speed
+officer_410,0,overtake
+officer_410,1,rule violating
+officer_410,0,turning
+officer_410,1,other
+officer_411,0,careless driving
+officer_411,0,drunk
+officer_411,0,speed
+officer_411,0,overtake
+officer_411,1,rule violating
+officer_411,0,turning
+officer_411,0,other
+officer_412,1,careless driving
+officer_412,1,drunk
+officer_412,0,speed
+officer_412,0,overtake
+officer_412,1,rule violating
+officer_412,0,turning
+officer_412,0,other
+officer_413,1,careless driving
+officer_413,0,drunk
+officer_413,0,speed
+officer_413,1,overtake
+officer_413,0,rule violating
+officer_413,0,turning
+officer_413,1,other
+officer_414,1,careless driving
+officer_414,0,drunk
+officer_414,0,speed
+officer_414,1,overtake
+officer_414,0,rule violating
+officer_414,1,turning
+officer_414,1,other
+officer_415,0,careless driving
+officer_415,1,drunk
+officer_415,1,speed
+officer_415,1,overtake
+officer_415,1,rule violating
+officer_415,0,turning
+officer_415,0,other
+officer_416,1,careless driving
+officer_416,0,drunk
+officer_416,0,speed
+officer_416,1,overtake
+officer_416,1,rule violating
+officer_416,1,turning
+officer_416,1,other
+officer_417,1,careless driving
+officer_417,1,drunk
+officer_417,1,speed
+officer_417,0,overtake
+officer_417,0,rule violating
+officer_417,1,turning
+officer_417,0,other
+officer_418,1,careless driving
+officer_418,1,drunk
+officer_418,0,speed
+officer_418,1,overtake
+officer_418,0,rule violating
+officer_418,0,turning
+officer_418,1,other
+officer_419,0,careless driving
+officer_419,1,drunk
+officer_419,1,speed
+officer_419,1,overtake
+officer_419,0,rule violating
+officer_419,1,turning
+officer_419,1,other
+officer_420,1,careless driving
+officer_420,1,drunk
+officer_420,0,speed
+officer_420,0,overtake
+officer_420,1,rule violating
+officer_420,1,turning
+officer_420,0,other
+officer_421,1,careless driving
+officer_421,1,drunk
+officer_421,1,speed
+officer_421,0,overtake
+officer_421,0,rule violating
+officer_421,1,turning
+officer_421,0,other
+officer_422,0,careless driving
+officer_422,1,drunk
+officer_422,0,speed
+officer_422,0,overtake
+officer_422,1,rule violating
+officer_422,1,turning
+officer_422,0,other
+officer_423,1,careless driving
+officer_423,0,drunk
+officer_423,1,speed
+officer_423,0,overtake
+officer_423,1,rule violating
+officer_423,1,turning
+officer_423,0,other
+officer_424,0,careless driving
+officer_424,1,drunk
+officer_424,0,speed
+officer_424,0,overtake
+officer_424,1,rule violating
+officer_424,1,turning
+officer_424,0,other
+officer_425,0,careless driving
+officer_425,1,drunk
+officer_425,1,speed
+officer_425,0,overtake
+officer_425,0,rule violating
+officer_425,0,turning
+officer_425,0,other
+officer_426,1,careless driving
+officer_426,0,drunk
+officer_426,0,speed
+officer_426,0,overtake
+officer_426,0,rule violating
+officer_426,0,turning
+officer_426,1,other
+officer_427,1,careless driving
+officer_427,0,drunk
+officer_427,1,speed
+officer_427,0,overtake
+officer_427,0,rule violating
+officer_427,1,turning
+officer_427,1,other
+officer_428,0,careless driving
+officer_428,0,drunk
+officer_428,0,speed
+officer_428,1,overtake
+officer_428,0,rule violating
+officer_428,0,turning
+officer_428,1,other
+officer_429,1,careless driving
+officer_429,1,drunk
+officer_429,1,speed
+officer_429,0,overtake
+officer_429,0,rule violating
+officer_429,1,turning
+officer_429,1,other
+officer_430,1,careless driving
+officer_430,0,drunk
+officer_430,1,speed
+officer_430,1,overtake
+officer_430,0,rule violating
+officer_430,0,turning
+officer_430,0,other
+officer_431,0,careless driving
+officer_431,0,drunk
+officer_431,1,speed
+officer_431,0,overtake
+officer_431,0,rule violating
+officer_431,0,turning
+officer_431,0,other
+officer_432,1,careless driving
+officer_432,1,drunk
+officer_432,0,speed
+officer_432,1,overtake
+officer_432,0,rule violating
+officer_432,1,turning
+officer_432,1,other
+officer_433,0,careless driving
+officer_433,0,drunk
+officer_433,1,speed
+officer_433,1,overtake
+officer_433,0,rule violating
+officer_433,0,turning
+officer_433,1,other
+officer_434,1,careless driving
+officer_434,1,drunk
+officer_434,0,speed
+officer_434,0,overtake
+officer_434,1,rule violating
+officer_434,1,turning
+officer_434,0,other
+officer_435,0,careless driving
+officer_435,1,drunk
+officer_435,1,speed
+officer_435,0,overtake
+officer_435,0,rule violating
+officer_435,1,turning
+officer_435,0,other
+officer_436,1,careless driving
+officer_436,0,drunk
+officer_436,0,speed
+officer_436,0,overtake
+officer_436,0,rule violating
+officer_436,1,turning
+officer_436,0,other
+officer_437,0,careless driving
+officer_437,0,drunk
+officer_437,0,speed
+officer_437,0,overtake
+officer_437,1,rule violating
+officer_437,0,turning
+officer_437,0,other
+officer_438,0,careless driving
+officer_438,1,drunk
+officer_438,0,speed
+officer_438,0,overtake
+officer_438,1,rule violating
+officer_438,0,turning
+officer_438,1,other
+officer_439,1,careless driving
+officer_439,1,drunk
+officer_439,0,speed
+officer_439,0,overtake
+officer_439,1,rule violating
+officer_439,0,turning
+officer_439,0,other
+officer_440,0,careless driving
+officer_440,1,drunk
+officer_440,1,speed
+officer_440,0,overtake
+officer_440,1,rule violating
+officer_440,0,turning
+officer_440,0,other
+officer_441,1,careless driving
+officer_441,1,drunk
+officer_441,0,speed
+officer_441,0,overtake
+officer_441,1,rule violating
+officer_441,1,turning
+officer_441,1,other
+officer_442,1,careless driving
+officer_442,1,drunk
+officer_442,0,speed
+officer_442,1,overtake
+officer_442,1,rule violating
+officer_442,1,turning
+officer_442,1,other
+officer_443,0,careless driving
+officer_443,0,drunk
+officer_443,0,speed
+officer_443,0,overtake
+officer_443,0,rule violating
+officer_443,1,turning
+officer_443,1,other
+officer_444,0,careless driving
+officer_444,1,drunk
+officer_444,1,speed
+officer_444,1,overtake
+officer_444,1,rule violating
+officer_444,1,turning
+officer_444,1,other
+officer_445,0,careless driving
+officer_445,1,drunk
+officer_445,1,speed
+officer_445,0,overtake
+officer_445,1,rule violating
+officer_445,0,turning
+officer_445,0,other
+officer_446,1,careless driving
+officer_446,1,drunk
+officer_446,1,speed
+officer_446,0,overtake
+officer_446,0,rule violating
+officer_446,0,turning
+officer_446,1,other
+officer_447,1,careless driving
+officer_447,0,drunk
+officer_447,0,speed
+officer_447,1,overtake
+officer_447,1,rule violating
+officer_447,0,turning
+officer_447,0,other
+officer_448,0,careless driving
+officer_448,0,drunk
+officer_448,1,speed
+officer_448,1,overtake
+officer_448,0,rule violating
+officer_448,0,turning
+officer_448,1,other
+officer_449,0,careless driving
+officer_449,1,drunk
+officer_449,0,speed
+officer_449,0,overtake
+officer_449,0,rule violating
+officer_449,0,turning
+officer_449,1,other
+officer_450,0,careless driving
+officer_450,0,drunk
+officer_450,1,speed
+officer_450,1,overtake
+officer_450,0,rule violating
+officer_450,1,turning
+officer_450,0,other
+officer_451,1,careless driving
+officer_451,0,drunk
+officer_451,0,speed
+officer_451,1,overtake
+officer_451,1,rule violating
+officer_451,0,turning
+officer_451,1,other
+officer_452,0,careless driving
+officer_452,1,drunk
+officer_452,0,speed
+officer_452,1,overtake
+officer_452,1,rule violating
+officer_452,0,turning
+officer_452,0,other
+officer_453,1,careless driving
+officer_453,0,drunk
+officer_453,1,speed
+officer_453,1,overtake
+officer_453,1,rule violating
+officer_453,1,turning
+officer_453,0,other
+officer_454,0,careless driving
+officer_454,0,drunk
+officer_454,1,speed
+officer_454,1,overtake
+officer_454,0,rule violating
+officer_454,0,turning
+officer_454,1,other
+officer_455,0,careless driving
+officer_455,1,drunk
+officer_455,1,speed
+officer_455,0,overtake
+officer_455,1,rule violating
+officer_455,1,turning
+officer_455,0,other
+officer_456,1,careless driving
+officer_456,0,drunk
+officer_456,0,speed
+officer_456,1,overtake
+officer_456,0,rule violating
+officer_456,0,turning
+officer_456,0,other
+officer_457,0,careless driving
+officer_457,0,drunk
+officer_457,1,speed
+officer_457,0,overtake
+officer_457,1,rule violating
+officer_457,1,turning
+officer_457,0,other
+officer_458,0,careless driving
+officer_458,1,drunk
+officer_458,0,speed
+officer_458,0,overtake
+officer_458,0,rule violating
+officer_458,1,turning
+officer_458,1,other
+officer_459,0,careless driving
+officer_459,1,drunk
+officer_459,0,speed
+officer_459,1,overtake
+officer_459,1,rule violating
+officer_459,1,turning
+officer_459,0,other
+officer_460,0,careless driving
+officer_460,1,drunk
+officer_460,0,speed
+officer_460,1,overtake
+officer_460,0,rule violating
+officer_460,1,turning
+officer_460,1,other
+officer_461,0,careless driving
+officer_461,0,drunk
+officer_461,0,speed
+officer_461,0,overtake
+officer_461,1,rule violating
+officer_461,0,turning
+officer_461,1,other
+officer_462,1,careless driving
+officer_462,1,drunk
+officer_462,1,speed
+officer_462,0,overtake
+officer_462,0,rule violating
+officer_462,0,turning
+officer_462,0,other
+officer_463,0,careless driving
+officer_463,0,drunk
+officer_463,1,speed
+officer_463,0,overtake
+officer_463,1,rule violating
+officer_463,0,turning
+officer_463,0,other
+officer_464,0,careless driving
+officer_464,0,drunk
+officer_464,1,speed
+officer_464,1,overtake
+officer_464,1,rule violating
+officer_464,0,turning
+officer_464,0,other
+officer_465,1,careless driving
+officer_465,1,drunk
+officer_465,1,speed
+officer_465,1,overtake
+officer_465,0,rule violating
+officer_465,0,turning
+officer_465,1,other
+officer_466,0,careless driving
+officer_466,1,drunk
+officer_466,0,speed
+officer_466,0,overtake
+officer_466,0,rule violating
+officer_466,0,turning
+officer_466,1,other
+officer_467,1,careless driving
+officer_467,1,drunk
+officer_467,0,speed
+officer_467,1,overtake
+officer_467,1,rule violating
+officer_467,0,turning
+officer_467,1,other
+officer_468,1,careless driving
+officer_468,1,drunk
+officer_468,0,speed
+officer_468,1,overtake
+officer_468,1,rule violating
+officer_468,0,turning
+officer_468,1,other
+officer_469,1,careless driving
+officer_469,1,drunk
+officer_469,0,speed
+officer_469,0,overtake
+officer_469,1,rule violating
+officer_469,0,turning
+officer_469,0,other
+officer_470,0,careless driving
+officer_470,0,drunk
+officer_470,1,speed
+officer_470,0,overtake
+officer_470,0,rule violating
+officer_470,1,turning
+officer_470,0,other
+officer_471,0,careless driving
+officer_471,1,drunk
+officer_471,0,speed
+officer_471,0,overtake
+officer_471,0,rule violating
+officer_471,0,turning
+officer_471,1,other
+officer_472,0,careless driving
+officer_472,0,drunk
+officer_472,1,speed
+officer_472,1,overtake
+officer_472,0,rule violating
+officer_472,1,turning
+officer_472,1,other
+officer_473,1,careless driving
+officer_473,0,drunk
+officer_473,0,speed
+officer_473,0,overtake
+officer_473,0,rule violating
+officer_473,1,turning
+officer_473,0,other
+officer_474,1,careless driving
+officer_474,0,drunk
+officer_474,0,speed
+officer_474,0,overtake
+officer_474,0,rule violating
+officer_474,1,turning
+officer_474,1,other
+officer_475,0,careless driving
+officer_475,1,drunk
+officer_475,1,speed
+officer_475,0,overtake
+officer_475,0,rule violating
+officer_475,0,turning
+officer_475,1,other
+officer_476,1,careless driving
+officer_476,1,drunk
+officer_476,0,speed
+officer_476,1,overtake
+officer_476,0,rule violating
+officer_476,0,turning
+officer_476,0,other
+officer_477,0,careless driving
+officer_477,1,drunk
+officer_477,1,speed
+officer_477,0,overtake
+officer_477,1,rule violating
+officer_477,1,turning
+officer_477,1,other
+officer_478,1,careless driving
+officer_478,1,drunk
+officer_478,0,speed
+officer_478,1,overtake
+officer_478,0,rule violating
+officer_478,0,turning
+officer_478,0,other
+officer_479,1,careless driving
+officer_479,1,drunk
+officer_479,0,speed
+officer_479,1,overtake
+officer_479,1,rule violating
+officer_479,0,turning
+officer_479,0,other
+officer_480,0,careless driving
+officer_480,0,drunk
+officer_480,1,speed
+officer_480,1,overtake
+officer_480,0,rule violating
+officer_480,0,turning
+officer_480,1,other
+officer_481,1,careless driving
+officer_481,1,drunk
+officer_481,1,speed
+officer_481,0,overtake
+officer_481,1,rule violating
+officer_481,1,turning
+officer_481,0,other
+officer_482,0,careless driving
+officer_482,1,drunk
+officer_482,1,speed
+officer_482,0,overtake
+officer_482,1,rule violating
+officer_482,1,turning
+officer_482,1,other
+officer_483,1,careless driving
+officer_483,1,drunk
+officer_483,0,speed
+officer_483,0,overtake
+officer_483,0,rule violating
+officer_483,0,turning
+officer_483,0,other
+officer_484,1,careless driving
+officer_484,1,drunk
+officer_484,0,speed
+officer_484,0,overtake
+officer_484,1,rule violating
+officer_484,0,turning
+officer_484,0,other
+officer_485,1,careless driving
+officer_485,0,drunk
+officer_485,0,speed
+officer_485,1,overtake
+officer_485,0,rule violating
+officer_485,0,turning
+officer_485,0,other
+officer_486,0,careless driving
+officer_486,0,drunk
+officer_486,0,speed
+officer_486,1,overtake
+officer_486,1,rule violating
+officer_486,0,turning
+officer_486,1,other
+officer_487,1,careless driving
+officer_487,1,drunk
+officer_487,1,speed
+officer_487,1,overtake
+officer_487,1,rule violating
+officer_487,0,turning
+officer_487,0,other
+officer_488,0,careless driving
+officer_488,1,drunk
+officer_488,0,speed
+officer_488,0,overtake
+officer_488,0,rule violating
+officer_488,1,turning
+officer_488,0,other
+officer_489,1,careless driving
+officer_489,1,drunk
+officer_489,1,speed
+officer_489,0,overtake
+officer_489,0,rule violating
+officer_489,1,turning
+officer_489,0,other
+officer_490,0,careless driving
+officer_490,1,drunk
+officer_490,1,speed
+officer_490,0,overtake
+officer_490,0,rule violating
+officer_490,1,turning
+officer_490,0,other
+officer_491,0,careless driving
+officer_491,0,drunk
+officer_491,1,speed
+officer_491,0,overtake
+officer_491,0,rule violating
+officer_491,0,turning
+officer_491,0,other
+officer_492,1,careless driving
+officer_492,1,drunk
+officer_492,1,speed
+officer_492,0,overtake
+officer_492,0,rule violating
+officer_492,0,turning
+officer_492,1,other
+officer_493,1,careless driving
+officer_493,0,drunk
+officer_493,0,speed
+officer_493,1,overtake
+officer_493,1,rule violating
+officer_493,1,turning
+officer_493,1,other
+officer_494,0,careless driving
+officer_494,0,drunk
+officer_494,0,speed
+officer_494,0,overtake
+officer_494,0,rule violating
+officer_494,0,turning
+officer_494,0,other
+officer_495,0,careless driving
+officer_495,1,drunk
+officer_495,0,speed
+officer_495,0,overtake
+officer_495,1,rule violating
+officer_495,0,turning
+officer_495,0,other
+officer_496,1,careless driving
+officer_496,0,drunk
+officer_496,1,speed
+officer_496,1,overtake
+officer_496,1,rule violating
+officer_496,0,turning
+officer_496,1,other
+officer_497,1,careless driving
+officer_497,1,drunk
+officer_497,1,speed
+officer_497,0,overtake
+officer_497,0,rule violating
+officer_497,0,turning
+officer_497,1,other
+officer_498,0,careless driving
+officer_498,0,drunk
+officer_498,1,speed
+officer_498,1,overtake
+officer_498,0,rule violating
+officer_498,0,turning
+officer_498,1,other
+officer_499,1,careless driving
+officer_499,0,drunk
+officer_499,1,speed
+officer_499,1,overtake
+officer_499,0,rule violating
+officer_499,1,turning
+officer_499,1,other
+officer_500,0,careless driving
+officer_500,0,drunk
+officer_500,1,speed
+officer_500,1,overtake
+officer_500,0,rule violating
+officer_500,1,turning
+officer_500,0,other
+officer_501,0,careless driving
+officer_501,1,drunk
+officer_501,1,speed
+officer_501,1,overtake
+officer_501,0,rule violating
+officer_501,0,turning
+officer_501,0,other
+officer_502,1,careless driving
+officer_502,0,drunk
+officer_502,1,speed
+officer_502,1,overtake
+officer_502,1,rule violating
+officer_502,0,turning
+officer_502,1,other
+officer_503,1,careless driving
+officer_503,0,drunk
+officer_503,0,speed
+officer_503,0,overtake
+officer_503,1,rule violating
+officer_503,1,turning
+officer_503,1,other
+officer_504,1,careless driving
+officer_504,1,drunk
+officer_504,0,speed
+officer_504,0,overtake
+officer_504,0,rule violating
+officer_504,1,turning
+officer_504,1,other
+officer_505,1,careless driving
+officer_505,1,drunk
+officer_505,0,speed
+officer_505,0,overtake
+officer_505,1,rule violating
+officer_505,1,turning
+officer_505,0,other
+officer_506,1,careless driving
+officer_506,0,drunk
+officer_506,1,speed
+officer_506,1,overtake
+officer_506,0,rule violating
+officer_506,1,turning
+officer_506,0,other
+officer_507,0,careless driving
+officer_507,1,drunk
+officer_507,1,speed
+officer_507,1,overtake
+officer_507,0,rule violating
+officer_507,1,turning
+officer_507,0,other
+officer_508,1,careless driving
+officer_508,0,drunk
+officer_508,0,speed
+officer_508,1,overtake
+officer_508,0,rule violating
+officer_508,0,turning
+officer_508,1,other
+officer_509,0,careless driving
+officer_509,1,drunk
+officer_509,1,speed
+officer_509,0,overtake
+officer_509,0,rule violating
+officer_509,0,turning
+officer_509,1,other
+officer_510,0,careless driving
+officer_510,1,drunk
+officer_510,0,speed
+officer_510,1,overtake
+officer_510,1,rule violating
+officer_510,0,turning
+officer_510,0,other
+officer_511,1,careless driving
+officer_511,0,drunk
+officer_511,1,speed
+officer_511,0,overtake
+officer_511,1,rule violating
+officer_511,0,turning
+officer_511,1,other
+officer_512,1,careless driving
+officer_512,0,drunk
+officer_512,0,speed
+officer_512,1,overtake
+officer_512,0,rule violating
+officer_512,1,turning
+officer_512,1,other
+officer_513,1,careless driving
+officer_513,0,drunk
+officer_513,0,speed
+officer_513,1,overtake
+officer_513,1,rule violating
+officer_513,0,turning
+officer_513,1,other
+officer_514,1,careless driving
+officer_514,0,drunk
+officer_514,0,speed
+officer_514,0,overtake
+officer_514,0,rule violating
+officer_514,0,turning
+officer_514,1,other
+officer_515,1,careless driving
+officer_515,0,drunk
+officer_515,0,speed
+officer_515,0,overtake
+officer_515,1,rule violating
+officer_515,1,turning
+officer_515,1,other
+officer_516,0,careless driving
+officer_516,0,drunk
+officer_516,0,speed
+officer_516,0,overtake
+officer_516,0,rule violating
+officer_516,0,turning
+officer_516,1,other
+officer_517,1,careless driving
+officer_517,1,drunk
+officer_517,1,speed
+officer_517,0,overtake
+officer_517,1,rule violating
+officer_517,0,turning
+officer_517,1,other
+officer_518,0,careless driving
+officer_518,1,drunk
+officer_518,0,speed
+officer_518,0,overtake
+officer_518,0,rule violating
+officer_518,0,turning
+officer_518,1,other
+officer_519,0,careless driving
+officer_519,0,drunk
+officer_519,0,speed
+officer_519,1,overtake
+officer_519,1,rule violating
+officer_519,0,turning
+officer_519,1,other
+officer_520,1,careless driving
+officer_520,0,drunk
+officer_520,0,speed
+officer_520,1,overtake
+officer_520,1,rule violating
+officer_520,0,turning
+officer_520,1,other
+officer_521,1,careless driving
+officer_521,0,drunk
+officer_521,1,speed
+officer_521,1,overtake
+officer_521,1,rule violating
+officer_521,1,turning
+officer_521,1,other
+officer_522,0,careless driving
+officer_522,1,drunk
+officer_522,1,speed
+officer_522,1,overtake
+officer_522,1,rule violating
+officer_522,1,turning
+officer_522,0,other
+officer_523,0,careless driving
+officer_523,1,drunk
+officer_523,0,speed
+officer_523,0,overtake
+officer_523,1,rule violating
+officer_523,1,turning
+officer_523,0,other
+officer_524,1,careless driving
+officer_524,0,drunk
+officer_524,0,speed
+officer_524,0,overtake
+officer_524,0,rule violating
+officer_524,1,turning
+officer_524,1,other
+officer_525,1,careless driving
+officer_525,1,drunk
+officer_525,0,speed
+officer_525,1,overtake
+officer_525,0,rule violating
+officer_525,0,turning
+officer_525,0,other
+officer_526,0,careless driving
+officer_526,0,drunk
+officer_526,1,speed
+officer_526,1,overtake
+officer_526,1,rule violating
+officer_526,0,turning
+officer_526,0,other
+officer_527,0,careless driving
+officer_527,1,drunk
+officer_527,1,speed
+officer_527,0,overtake
+officer_527,1,rule violating
+officer_527,1,turning
+officer_527,1,other
+officer_528,1,careless driving
+officer_528,1,drunk
+officer_528,0,speed
+officer_528,0,overtake
+officer_528,1,rule violating
+officer_528,1,turning
+officer_528,1,other
+officer_529,1,careless driving
+officer_529,0,drunk
+officer_529,0,speed
+officer_529,1,overtake
+officer_529,1,rule violating
+officer_529,0,turning
+officer_529,0,other
+officer_530,0,careless driving
+officer_530,1,drunk
+officer_530,0,speed
+officer_530,0,overtake
+officer_530,1,rule violating
+officer_530,1,turning
+officer_530,1,other
+officer_531,1,careless driving
+officer_531,0,drunk
+officer_531,0,speed
+officer_531,1,overtake
+officer_531,0,rule violating
+officer_531,1,turning
+officer_531,0,other
+officer_532,1,careless driving
+officer_532,0,drunk
+officer_532,0,speed
+officer_532,0,overtake
+officer_532,1,rule violating
+officer_532,1,turning
+officer_532,1,other
+officer_533,1,careless driving
+officer_533,1,drunk
+officer_533,1,speed
+officer_533,1,overtake
+officer_533,1,rule violating
+officer_533,1,turning
+officer_533,1,other
+officer_534,0,careless driving
+officer_534,1,drunk
+officer_534,0,speed
+officer_534,1,overtake
+officer_534,1,rule violating
+officer_534,1,turning
+officer_534,0,other
+officer_535,0,careless driving
+officer_535,0,drunk
+officer_535,1,speed
+officer_535,1,overtake
+officer_535,1,rule violating
+officer_535,1,turning
+officer_535,1,other
+officer_536,0,careless driving
+officer_536,1,drunk
+officer_536,1,speed
+officer_536,0,overtake
+officer_536,1,rule violating
+officer_536,0,turning
+officer_536,1,other
+officer_537,0,careless driving
+officer_537,1,drunk
+officer_537,0,speed
+officer_537,1,overtake
+officer_537,1,rule violating
+officer_537,1,turning
+officer_537,0,other
+officer_538,0,careless driving
+officer_538,1,drunk
+officer_538,1,speed
+officer_538,0,overtake
+officer_538,1,rule violating
+officer_538,1,turning
+officer_538,0,other
+officer_539,0,careless driving
+officer_539,1,drunk
+officer_539,1,speed
+officer_539,0,overtake
+officer_539,1,rule violating
+officer_539,0,turning
+officer_539,0,other
+officer_540,1,careless driving
+officer_540,1,drunk
+officer_540,1,speed
+officer_540,1,overtake
+officer_540,0,rule violating
+officer_540,1,turning
+officer_540,0,other
+officer_541,0,careless driving
+officer_541,0,drunk
+officer_541,0,speed
+officer_541,0,overtake
+officer_541,0,rule violating
+officer_541,0,turning
+officer_541,1,other
+officer_542,1,careless driving
+officer_542,1,drunk
+officer_542,0,speed
+officer_542,0,overtake
+officer_542,1,rule violating
+officer_542,1,turning
+officer_542,1,other
+officer_543,0,careless driving
+officer_543,0,drunk
+officer_543,0,speed
+officer_543,0,overtake
+officer_543,0,rule violating
+officer_543,0,turning
+officer_543,1,other
+officer_544,0,careless driving
+officer_544,0,drunk
+officer_544,1,speed
+officer_544,1,overtake
+officer_544,0,rule violating
+officer_544,0,turning
+officer_544,1,other
+officer_545,1,careless driving
+officer_545,0,drunk
+officer_545,1,speed
+officer_545,1,overtake
+officer_545,0,rule violating
+officer_545,0,turning
+officer_545,0,other
+officer_546,1,careless driving
+officer_546,0,drunk
+officer_546,0,speed
+officer_546,0,overtake
+officer_546,0,rule violating
+officer_546,1,turning
+officer_546,0,other
+officer_547,1,careless driving
+officer_547,1,drunk
+officer_547,1,speed
+officer_547,0,overtake
+officer_547,0,rule violating
+officer_547,0,turning
+officer_547,0,other
+officer_548,1,careless driving
+officer_548,1,drunk
+officer_548,0,speed
+officer_548,0,overtake
+officer_548,0,rule violating
+officer_548,1,turning
+officer_548,0,other
+officer_549,1,careless driving
+officer_549,1,drunk
+officer_549,1,speed
+officer_549,1,overtake
+officer_549,1,rule violating
+officer_549,0,turning
+officer_549,1,other
+officer_550,1,careless driving
+officer_550,0,drunk
+officer_550,1,speed
+officer_550,1,overtake
+officer_550,1,rule violating
+officer_550,1,turning
+officer_550,1,other
+officer_551,0,careless driving
+officer_551,1,drunk
+officer_551,0,speed
+officer_551,0,overtake
+officer_551,0,rule violating
+officer_551,0,turning
+officer_551,0,other
+officer_552,1,careless driving
+officer_552,0,drunk
+officer_552,0,speed
+officer_552,0,overtake
+officer_552,1,rule violating
+officer_552,1,turning
+officer_552,0,other
+officer_553,0,careless driving
+officer_553,0,drunk
+officer_553,1,speed
+officer_553,0,overtake
+officer_553,0,rule violating
+officer_553,1,turning
+officer_553,1,other
+officer_554,1,careless driving
+officer_554,1,drunk
+officer_554,0,speed
+officer_554,0,overtake
+officer_554,0,rule violating
+officer_554,0,turning
+officer_554,1,other
+officer_555,1,careless driving
+officer_555,1,drunk
+officer_555,1,speed
+officer_555,1,overtake
+officer_555,0,rule violating
+officer_555,0,turning
+officer_555,1,other
+officer_556,1,careless driving
+officer_556,0,drunk
+officer_556,0,speed
+officer_556,1,overtake
+officer_556,1,rule violating
+officer_556,1,turning
+officer_556,0,other
+officer_557,1,careless driving
+officer_557,1,drunk
+officer_557,1,speed
+officer_557,0,overtake
+officer_557,1,rule violating
+officer_557,0,turning
+officer_557,1,other
+officer_558,0,careless driving
+officer_558,1,drunk
+officer_558,0,speed
+officer_558,0,overtake
+officer_558,0,rule violating
+officer_558,1,turning
+officer_558,1,other
+officer_559,0,careless driving
+officer_559,1,drunk
+officer_559,0,speed
+officer_559,0,overtake
+officer_559,0,rule violating
+officer_559,1,turning
+officer_559,0,other
+officer_560,0,careless driving
+officer_560,1,drunk
+officer_560,1,speed
+officer_560,1,overtake
+officer_560,1,rule violating
+officer_560,1,turning
+officer_560,0,other
+officer_561,1,careless driving
+officer_561,1,drunk
+officer_561,0,speed
+officer_561,1,overtake
+officer_561,1,rule violating
+officer_561,0,turning
+officer_561,1,other
+officer_562,0,careless driving
+officer_562,1,drunk
+officer_562,0,speed
+officer_562,0,overtake
+officer_562,1,rule violating
+officer_562,1,turning
+officer_562,1,other
+officer_563,1,careless driving
+officer_563,1,drunk
+officer_563,1,speed
+officer_563,1,overtake
+officer_563,1,rule violating
+officer_563,1,turning
+officer_563,0,other
+officer_564,0,careless driving
+officer_564,0,drunk
+officer_564,1,speed
+officer_564,0,overtake
+officer_564,0,rule violating
+officer_564,0,turning
+officer_564,1,other
+officer_565,1,careless driving
+officer_565,0,drunk
+officer_565,0,speed
+officer_565,0,overtake
+officer_565,1,rule violating
+officer_565,1,turning
+officer_565,1,other
+officer_566,1,careless driving
+officer_566,0,drunk
+officer_566,0,speed
+officer_566,0,overtake
+officer_566,0,rule violating
+officer_566,1,turning
+officer_566,0,other
+officer_567,1,careless driving
+officer_567,0,drunk
+officer_567,0,speed
+officer_567,0,overtake
+officer_567,1,rule violating
+officer_567,1,turning
+officer_567,0,other
+officer_568,0,careless driving
+officer_568,1,drunk
+officer_568,0,speed
+officer_568,0,overtake
+officer_568,1,rule violating
+officer_568,0,turning
+officer_568,0,other
+officer_569,1,careless driving
+officer_569,1,drunk
+officer_569,1,speed
+officer_569,0,overtake
+officer_569,1,rule violating
+officer_569,0,turning
+officer_569,0,other
+officer_570,0,careless driving
+officer_570,1,drunk
+officer_570,1,speed
+officer_570,1,overtake
+officer_570,1,rule violating
+officer_570,0,turning
+officer_570,0,other
+officer_571,1,careless driving
+officer_571,1,drunk
+officer_571,0,speed
+officer_571,0,overtake
+officer_571,1,rule violating
+officer_571,0,turning
+officer_571,0,other
+officer_572,0,careless driving
+officer_572,1,drunk
+officer_572,0,speed
+officer_572,1,overtake
+officer_572,1,rule violating
+officer_572,0,turning
+officer_572,1,other
+officer_573,0,careless driving
+officer_573,1,drunk
+officer_573,1,speed
+officer_573,1,overtake
+officer_573,0,rule violating
+officer_573,0,turning
+officer_573,1,other
+officer_574,0,careless driving
+officer_574,0,drunk
+officer_574,0,speed
+officer_574,0,overtake
+officer_574,0,rule violating
+officer_574,0,turning
+officer_574,1,other
+officer_575,0,careless driving
+officer_575,0,drunk
+officer_575,0,speed
+officer_575,0,overtake
+officer_575,1,rule violating
+officer_575,1,turning
+officer_575,0,other
+officer_576,1,careless driving
+officer_576,1,drunk
+officer_576,0,speed
+officer_576,1,overtake
+officer_576,0,rule violating
+officer_576,0,turning
+officer_576,1,other
+officer_577,1,careless driving
+officer_577,0,drunk
+officer_577,1,speed
+officer_577,0,overtake
+officer_577,0,rule violating
+officer_577,0,turning
+officer_577,0,other
+officer_578,1,careless driving
+officer_578,0,drunk
+officer_578,1,speed
+officer_578,0,overtake
+officer_578,1,rule violating
+officer_578,0,turning
+officer_578,0,other
+officer_579,1,careless driving
+officer_579,1,drunk
+officer_579,0,speed
+officer_579,0,overtake
+officer_579,0,rule violating
+officer_579,0,turning
+officer_579,1,other
+officer_580,1,careless driving
+officer_580,0,drunk
+officer_580,0,speed
+officer_580,0,overtake
+officer_580,0,rule violating
+officer_580,0,turning
+officer_580,1,other
+officer_581,0,careless driving
+officer_581,0,drunk
+officer_581,1,speed
+officer_581,0,overtake
+officer_581,1,rule violating
+officer_581,0,turning
+officer_581,1,other
+officer_582,0,careless driving
+officer_582,1,drunk
+officer_582,0,speed
+officer_582,0,overtake
+officer_582,0,rule violating
+officer_582,1,turning
+officer_582,1,other
+officer_583,1,careless driving
+officer_583,0,drunk
+officer_583,0,speed
+officer_583,1,overtake
+officer_583,1,rule violating
+officer_583,1,turning
+officer_583,0,other
+officer_584,1,careless driving
+officer_584,1,drunk
+officer_584,1,speed
+officer_584,0,overtake
+officer_584,1,rule violating
+officer_584,0,turning
+officer_584,0,other
+officer_585,0,careless driving
+officer_585,0,drunk
+officer_585,1,speed
+officer_585,0,overtake
+officer_585,0,rule violating
+officer_585,1,turning
+officer_585,1,other
+officer_586,0,careless driving
+officer_586,1,drunk
+officer_586,0,speed
+officer_586,1,overtake
+officer_586,1,rule violating
+officer_586,0,turning
+officer_586,1,other
+officer_587,0,careless driving
+officer_587,0,drunk
+officer_587,1,speed
+officer_587,0,overtake
+officer_587,1,rule violating
+officer_587,0,turning
+officer_587,0,other
+officer_588,0,careless driving
+officer_588,0,drunk
+officer_588,0,speed
+officer_588,1,overtake
+officer_588,1,rule violating
+officer_588,0,turning
+officer_588,1,other
+officer_589,0,careless driving
+officer_589,1,drunk
+officer_589,0,speed
+officer_589,0,overtake
+officer_589,1,rule violating
+officer_589,1,turning
+officer_589,1,other
+officer_590,0,careless driving
+officer_590,0,drunk
+officer_590,0,speed
+officer_590,1,overtake
+officer_590,1,rule violating
+officer_590,0,turning
+officer_590,1,other
+officer_591,1,careless driving
+officer_591,0,drunk
+officer_591,0,speed
+officer_591,1,overtake
+officer_591,0,rule violating
+officer_591,0,turning
+officer_591,1,other
+officer_592,1,careless driving
+officer_592,0,drunk
+officer_592,1,speed
+officer_592,1,overtake
+officer_592,0,rule violating
+officer_592,0,turning
+officer_592,0,other
+officer_593,0,careless driving
+officer_593,1,drunk
+officer_593,1,speed
+officer_593,1,overtake
+officer_593,0,rule violating
+officer_593,0,turning
+officer_593,0,other
+officer_594,0,careless driving
+officer_594,1,drunk
+officer_594,1,speed
+officer_594,0,overtake
+officer_594,1,rule violating
+officer_594,0,turning
+officer_594,1,other
+officer_595,1,careless driving
+officer_595,1,drunk
+officer_595,0,speed
+officer_595,0,overtake
+officer_595,1,rule violating
+officer_595,0,turning
+officer_595,1,other
+officer_596,1,careless driving
+officer_596,0,drunk
+officer_596,1,speed
+officer_596,1,overtake
+officer_596,0,rule violating
+officer_596,0,turning
+officer_596,0,other
+officer_597,1,careless driving
+officer_597,1,drunk
+officer_597,1,speed
+officer_597,0,overtake
+officer_597,1,rule violating
+officer_597,0,turning
+officer_597,0,other
+officer_598,1,careless driving
+officer_598,0,drunk
+officer_598,1,speed
+officer_598,1,overtake
+officer_598,1,rule violating
+officer_598,0,turning
+officer_598,0,other
+officer_599,1,careless driving
+officer_599,0,drunk
+officer_599,1,speed
+officer_599,1,overtake
+officer_599,0,rule violating
+officer_599,0,turning
+officer_599,0,other
+officer_600,0,careless driving
+officer_600,0,drunk
+officer_600,1,speed
+officer_600,1,overtake
+officer_600,1,rule violating
+officer_600,0,turning
+officer_600,0,other
+officer_601,1,careless driving
+officer_601,0,drunk
+officer_601,1,speed
+officer_601,0,overtake
+officer_601,1,rule violating
+officer_601,1,turning
+officer_601,0,other
+officer_602,0,careless driving
+officer_602,0,drunk
+officer_602,1,speed
+officer_602,1,overtake
+officer_602,1,rule violating
+officer_602,1,turning
+officer_602,0,other
+officer_603,1,careless driving
+officer_603,1,drunk
+officer_603,1,speed
+officer_603,0,overtake
+officer_603,1,rule violating
+officer_603,1,turning
+officer_603,1,other
+officer_604,0,careless driving
+officer_604,0,drunk
+officer_604,1,speed
+officer_604,0,overtake
+officer_604,0,rule violating
+officer_604,0,turning
+officer_604,0,other
+officer_605,0,careless driving
+officer_605,0,drunk
+officer_605,1,speed
+officer_605,1,overtake
+officer_605,0,rule violating
+officer_605,0,turning
+officer_605,1,other
+officer_606,0,careless driving
+officer_606,1,drunk
+officer_606,0,speed
+officer_606,0,overtake
+officer_606,0,rule violating
+officer_606,1,turning
+officer_606,0,other
+officer_607,1,careless driving
+officer_607,1,drunk
+officer_607,0,speed
+officer_607,0,overtake
+officer_607,1,rule violating
+officer_607,1,turning
+officer_607,0,other
+officer_608,0,careless driving
+officer_608,0,drunk
+officer_608,0,speed
+officer_608,1,overtake
+officer_608,0,rule violating
+officer_608,1,turning
+officer_608,0,other
+officer_609,1,careless driving
+officer_609,1,drunk
+officer_609,0,speed
+officer_609,0,overtake
+officer_609,1,rule violating
+officer_609,0,turning
+officer_609,0,other
+officer_610,1,careless driving
+officer_610,0,drunk
+officer_610,1,speed
+officer_610,0,overtake
+officer_610,1,rule violating
+officer_610,0,turning
+officer_610,1,other
+officer_611,1,careless driving
+officer_611,0,drunk
+officer_611,0,speed
+officer_611,0,overtake
+officer_611,1,rule violating
+officer_611,1,turning
+officer_611,0,other
+officer_612,1,careless driving
+officer_612,1,drunk
+officer_612,0,speed
+officer_612,1,overtake
+officer_612,1,rule violating
+officer_612,1,turning
+officer_612,1,other
+officer_613,1,careless driving
+officer_613,0,drunk
+officer_613,0,speed
+officer_613,1,overtake
+officer_613,0,rule violating
+officer_613,1,turning
+officer_613,1,other
+officer_614,0,careless driving
+officer_614,0,drunk
+officer_614,0,speed
+officer_614,1,overtake
+officer_614,1,rule violating
+officer_614,0,turning
+officer_614,0,other
+officer_615,1,careless driving
+officer_615,0,drunk
+officer_615,0,speed
+officer_615,0,overtake
+officer_615,1,rule violating
+officer_615,0,turning
+officer_615,0,other
+officer_616,1,careless driving
+officer_616,0,drunk
+officer_616,1,speed
+officer_616,0,overtake
+officer_616,1,rule violating
+officer_616,1,turning
+officer_616,0,other
+officer_617,0,careless driving
+officer_617,0,drunk
+officer_617,0,speed
+officer_617,1,overtake
+officer_617,1,rule violating
+officer_617,1,turning
+officer_617,1,other
+officer_618,0,careless driving
+officer_618,0,drunk
+officer_618,0,speed
+officer_618,0,overtake
+officer_618,0,rule violating
+officer_618,1,turning
+officer_618,1,other
+officer_619,0,careless driving
+officer_619,0,drunk
+officer_619,0,speed
+officer_619,1,overtake
+officer_619,0,rule violating
+officer_619,0,turning
+officer_619,0,other
+officer_620,0,careless driving
+officer_620,1,drunk
+officer_620,0,speed
+officer_620,1,overtake
+officer_620,1,rule violating
+officer_620,1,turning
+officer_620,0,other
+officer_621,1,careless driving
+officer_621,0,drunk
+officer_621,0,speed
+officer_621,1,overtake
+officer_621,0,rule violating
+officer_621,1,turning
+officer_621,0,other
+officer_622,0,careless driving
+officer_622,0,drunk
+officer_622,1,speed
+officer_622,0,overtake
+officer_622,0,rule violating
+officer_622,0,turning
+officer_622,0,other
+officer_623,1,careless driving
+officer_623,0,drunk
+officer_623,0,speed
+officer_623,0,overtake
+officer_623,0,rule violating
+officer_623,1,turning
+officer_623,0,other
+officer_624,0,careless driving
+officer_624,1,drunk
+officer_624,1,speed
+officer_624,0,overtake
+officer_624,1,rule violating
+officer_624,1,turning
+officer_624,0,other
+officer_625,0,careless driving
+officer_625,0,drunk
+officer_625,0,speed
+officer_625,0,overtake
+officer_625,0,rule violating
+officer_625,0,turning
+officer_625,0,other
+officer_626,0,careless driving
+officer_626,0,drunk
+officer_626,0,speed
+officer_626,0,overtake
+officer_626,0,rule violating
+officer_626,1,turning
+officer_626,0,other
+officer_627,1,careless driving
+officer_627,0,drunk
+officer_627,1,speed
+officer_627,0,overtake
+officer_627,1,rule violating
+officer_627,0,turning
+officer_627,0,other
+officer_628,1,careless driving
+officer_628,0,drunk
+officer_628,1,speed
+officer_628,1,overtake
+officer_628,1,rule violating
+officer_628,0,turning
+officer_628,0,other
+officer_629,1,careless driving
+officer_629,1,drunk
+officer_629,1,speed
+officer_629,1,overtake
+officer_629,1,rule violating
+officer_629,0,turning
+officer_629,0,other
+officer_630,0,careless driving
+officer_630,1,drunk
+officer_630,1,speed
+officer_630,1,overtake
+officer_630,0,rule violating
+officer_630,0,turning
+officer_630,1,other
+officer_631,1,careless driving
+officer_631,1,drunk
+officer_631,1,speed
+officer_631,0,overtake
+officer_631,1,rule violating
+officer_631,0,turning
+officer_631,1,other
+officer_632,1,careless driving
+officer_632,1,drunk
+officer_632,0,speed
+officer_632,1,overtake
+officer_632,1,rule violating
+officer_632,0,turning
+officer_632,0,other
+officer_633,1,careless driving
+officer_633,1,drunk
+officer_633,0,speed
+officer_633,1,overtake
+officer_633,0,rule violating
+officer_633,0,turning
+officer_633,1,other
+officer_634,0,careless driving
+officer_634,0,drunk
+officer_634,1,speed
+officer_634,1,overtake
+officer_634,1,rule violating
+officer_634,1,turning
+officer_634,0,other
+officer_635,0,careless driving
+officer_635,0,drunk
+officer_635,0,speed
+officer_635,0,overtake
+officer_635,0,rule violating
+officer_635,1,turning
+officer_635,0,other
+officer_636,1,careless driving
+officer_636,0,drunk
+officer_636,0,speed
+officer_636,0,overtake
+officer_636,1,rule violating
+officer_636,1,turning
+officer_636,0,other
+officer_637,1,careless driving
+officer_637,0,drunk
+officer_637,0,speed
+officer_637,0,overtake
+officer_637,0,rule violating
+officer_637,0,turning
+officer_637,0,other
+officer_638,1,careless driving
+officer_638,1,drunk
+officer_638,1,speed
+officer_638,0,overtake
+officer_638,0,rule violating
+officer_638,1,turning
+officer_638,1,other
+officer_639,1,careless driving
+officer_639,1,drunk
+officer_639,1,speed
+officer_639,0,overtake
+officer_639,0,rule violating
+officer_639,0,turning
+officer_639,0,other
+officer_640,1,careless driving
+officer_640,1,drunk
+officer_640,0,speed
+officer_640,0,overtake
+officer_640,1,rule violating
+officer_640,1,turning
+officer_640,1,other
+officer_641,0,careless driving
+officer_641,1,drunk
+officer_641,1,speed
+officer_641,1,overtake
+officer_641,0,rule violating
+officer_641,1,turning
+officer_641,0,other
+officer_642,1,careless driving
+officer_642,0,drunk
+officer_642,1,speed
+officer_642,1,overtake
+officer_642,1,rule violating
+officer_642,0,turning
+officer_642,0,other
+officer_643,0,careless driving
+officer_643,0,drunk
+officer_643,1,speed
+officer_643,1,overtake
+officer_643,0,rule violating
+officer_643,1,turning
+officer_643,0,other
+officer_644,0,careless driving
+officer_644,0,drunk
+officer_644,1,speed
+officer_644,1,overtake
+officer_644,0,rule violating
+officer_644,0,turning
+officer_644,0,other
+officer_645,1,careless driving
+officer_645,1,drunk
+officer_645,0,speed
+officer_645,1,overtake
+officer_645,1,rule violating
+officer_645,0,turning
+officer_645,0,other
+officer_646,0,careless driving
+officer_646,0,drunk
+officer_646,1,speed
+officer_646,0,overtake
+officer_646,0,rule violating
+officer_646,1,turning
+officer_646,1,other
+officer_647,1,careless driving
+officer_647,1,drunk
+officer_647,1,speed
+officer_647,0,overtake
+officer_647,1,rule violating
+officer_647,1,turning
+officer_647,1,other
+officer_648,1,careless driving
+officer_648,0,drunk
+officer_648,1,speed
+officer_648,1,overtake
+officer_648,0,rule violating
+officer_648,0,turning
+officer_648,0,other
+officer_649,0,careless driving
+officer_649,0,drunk
+officer_649,0,speed
+officer_649,1,overtake
+officer_649,1,rule violating
+officer_649,1,turning
+officer_649,0,other
+officer_650,0,careless driving
+officer_650,0,drunk
+officer_650,1,speed
+officer_650,0,overtake
+officer_650,0,rule violating
+officer_650,1,turning
+officer_650,1,other
+officer_651,1,careless driving
+officer_651,0,drunk
+officer_651,0,speed
+officer_651,0,overtake
+officer_651,1,rule violating
+officer_651,0,turning
+officer_651,0,other
+officer_652,0,careless driving
+officer_652,0,drunk
+officer_652,0,speed
+officer_652,1,overtake
+officer_652,1,rule violating
+officer_652,0,turning
+officer_652,0,other
+officer_653,0,careless driving
+officer_653,0,drunk
+officer_653,0,speed
+officer_653,1,overtake
+officer_653,1,rule violating
+officer_653,0,turning
+officer_653,0,other
+officer_654,1,careless driving
+officer_654,0,drunk
+officer_654,1,speed
+officer_654,1,overtake
+officer_654,1,rule violating
+officer_654,1,turning
+officer_654,1,other
+officer_655,1,careless driving
+officer_655,0,drunk
+officer_655,1,speed
+officer_655,0,overtake
+officer_655,1,rule violating
+officer_655,0,turning
+officer_655,0,other
+officer_656,0,careless driving
+officer_656,0,drunk
+officer_656,1,speed
+officer_656,0,overtake
+officer_656,1,rule violating
+officer_656,1,turning
+officer_656,1,other
+officer_657,0,careless driving
+officer_657,0,drunk
+officer_657,0,speed
+officer_657,1,overtake
+officer_657,0,rule violating
+officer_657,1,turning
+officer_657,1,other
+officer_658,1,careless driving
+officer_658,0,drunk
+officer_658,0,speed
+officer_658,0,overtake
+officer_658,0,rule violating
+officer_658,1,turning
+officer_658,1,other
+officer_659,0,careless driving
+officer_659,0,drunk
+officer_659,1,speed
+officer_659,0,overtake
+officer_659,0,rule violating
+officer_659,0,turning
+officer_659,0,other
+officer_660,1,careless driving
+officer_660,1,drunk
+officer_660,0,speed
+officer_660,1,overtake
+officer_660,1,rule violating
+officer_660,0,turning
+officer_660,0,other
+officer_661,1,careless driving
+officer_661,1,drunk
+officer_661,1,speed
+officer_661,0,overtake
+officer_661,1,rule violating
+officer_661,1,turning
+officer_661,0,other
+officer_662,0,careless driving
+officer_662,1,drunk
+officer_662,0,speed
+officer_662,1,overtake
+officer_662,0,rule violating
+officer_662,1,turning
+officer_662,0,other
+officer_663,0,careless driving
+officer_663,1,drunk
+officer_663,0,speed
+officer_663,1,overtake
+officer_663,0,rule violating
+officer_663,1,turning
+officer_663,1,other
+officer_664,1,careless driving
+officer_664,1,drunk
+officer_664,0,speed
+officer_664,0,overtake
+officer_664,1,rule violating
+officer_664,1,turning
+officer_664,0,other
+officer_665,0,careless driving
+officer_665,0,drunk
+officer_665,1,speed
+officer_665,0,overtake
+officer_665,0,rule violating
+officer_665,1,turning
+officer_665,0,other
+officer_666,0,careless driving
+officer_666,1,drunk
+officer_666,1,speed
+officer_666,0,overtake
+officer_666,1,rule violating
+officer_666,1,turning
+officer_666,0,other
+officer_667,1,careless driving
+officer_667,0,drunk
+officer_667,1,speed
+officer_667,1,overtake
+officer_667,0,rule violating
+officer_667,0,turning
+officer_667,0,other
+officer_668,0,careless driving
+officer_668,1,drunk
+officer_668,0,speed
+officer_668,0,overtake
+officer_668,0,rule violating
+officer_668,0,turning
+officer_668,1,other
+officer_669,0,careless driving
+officer_669,0,drunk
+officer_669,0,speed
+officer_669,0,overtake
+officer_669,1,rule violating
+officer_669,0,turning
+officer_669,1,other
+officer_670,0,careless driving
+officer_670,0,drunk
+officer_670,1,speed
+officer_670,0,overtake
+officer_670,1,rule violating
+officer_670,1,turning
+officer_670,0,other
+officer_671,0,careless driving
+officer_671,0,drunk
+officer_671,0,speed
+officer_671,0,overtake
+officer_671,0,rule violating
+officer_671,0,turning
+officer_671,0,other
+officer_672,0,careless driving
+officer_672,0,drunk
+officer_672,0,speed
+officer_672,0,overtake
+officer_672,0,rule violating
+officer_672,1,turning
+officer_672,0,other
+officer_673,0,careless driving
+officer_673,0,drunk
+officer_673,0,speed
+officer_673,1,overtake
+officer_673,1,rule violating
+officer_673,1,turning
+officer_673,0,other
+officer_674,0,careless driving
+officer_674,1,drunk
+officer_674,0,speed
+officer_674,0,overtake
+officer_674,0,rule violating
+officer_674,0,turning
+officer_674,1,other
+officer_675,0,careless driving
+officer_675,1,drunk
+officer_675,0,speed
+officer_675,0,overtake
+officer_675,1,rule violating
+officer_675,1,turning
+officer_675,1,other
+officer_676,1,careless driving
+officer_676,0,drunk
+officer_676,0,speed
+officer_676,1,overtake
+officer_676,0,rule violating
+officer_676,1,turning
+officer_676,0,other
+officer_677,0,careless driving
+officer_677,1,drunk
+officer_677,1,speed
+officer_677,0,overtake
+officer_677,0,rule violating
+officer_677,1,turning
+officer_677,1,other
+officer_678,1,careless driving
+officer_678,1,drunk
+officer_678,1,speed
+officer_678,1,overtake
+officer_678,0,rule violating
+officer_678,0,turning
+officer_678,0,other
+officer_679,0,careless driving
+officer_679,0,drunk
+officer_679,0,speed
+officer_679,0,overtake
+officer_679,1,rule violating
+officer_679,1,turning
+officer_679,0,other
+officer_680,1,careless driving
+officer_680,0,drunk
+officer_680,1,speed
+officer_680,1,overtake
+officer_680,0,rule violating
+officer_680,1,turning
+officer_680,1,other
+officer_681,1,careless driving
+officer_681,0,drunk
+officer_681,1,speed
+officer_681,0,overtake
+officer_681,1,rule violating
+officer_681,1,turning
+officer_681,0,other
+officer_682,1,careless driving
+officer_682,1,drunk
+officer_682,0,speed
+officer_682,0,overtake
+officer_682,0,rule violating
+officer_682,1,turning
+officer_682,1,other
+officer_683,1,careless driving
+officer_683,0,drunk
+officer_683,0,speed
+officer_683,0,overtake
+officer_683,1,rule violating
+officer_683,1,turning
+officer_683,1,other
+officer_684,1,careless driving
+officer_684,1,drunk
+officer_684,1,speed
+officer_684,1,overtake
+officer_684,1,rule violating
+officer_684,0,turning
+officer_684,0,other
+officer_685,0,careless driving
+officer_685,0,drunk
+officer_685,0,speed
+officer_685,1,overtake
+officer_685,0,rule violating
+officer_685,0,turning
+officer_685,1,other
+officer_686,0,careless driving
+officer_686,0,drunk
+officer_686,1,speed
+officer_686,1,overtake
+officer_686,1,rule violating
+officer_686,1,turning
+officer_686,0,other
+officer_687,1,careless driving
+officer_687,1,drunk
+officer_687,0,speed
+officer_687,1,overtake
+officer_687,1,rule violating
+officer_687,1,turning
+officer_687,0,other
+officer_688,1,careless driving
+officer_688,0,drunk
+officer_688,1,speed
+officer_688,0,overtake
+officer_688,0,rule violating
+officer_688,0,turning
+officer_688,1,other
+officer_689,1,careless driving
+officer_689,0,drunk
+officer_689,0,speed
+officer_689,1,overtake
+officer_689,0,rule violating
+officer_689,0,turning
+officer_689,1,other
+officer_690,0,careless driving
+officer_690,0,drunk
+officer_690,0,speed
+officer_690,0,overtake
+officer_690,1,rule violating
+officer_690,0,turning
+officer_690,1,other
+officer_691,0,careless driving
+officer_691,1,drunk
+officer_691,1,speed
+officer_691,0,overtake
+officer_691,1,rule violating
+officer_691,0,turning
+officer_691,1,other
+officer_692,1,careless driving
+officer_692,1,drunk
+officer_692,0,speed
+officer_692,1,overtake
+officer_692,0,rule violating
+officer_692,0,turning
+officer_692,1,other
+officer_693,1,careless driving
+officer_693,1,drunk
+officer_693,1,speed
+officer_693,0,overtake
+officer_693,1,rule violating
+officer_693,1,turning
+officer_693,0,other
+officer_694,1,careless driving
+officer_694,1,drunk
+officer_694,1,speed
+officer_694,0,overtake
+officer_694,1,rule violating
+officer_694,0,turning
+officer_694,1,other
+officer_695,0,careless driving
+officer_695,1,drunk
+officer_695,1,speed
+officer_695,0,overtake
+officer_695,1,rule violating
+officer_695,1,turning
+officer_695,0,other
+officer_696,1,careless driving
+officer_696,0,drunk
+officer_696,1,speed
+officer_696,1,overtake
+officer_696,1,rule violating
+officer_696,1,turning
+officer_696,0,other
+officer_697,0,careless driving
+officer_697,1,drunk
+officer_697,1,speed
+officer_697,0,overtake
+officer_697,1,rule violating
+officer_697,1,turning
+officer_697,0,other
+officer_698,0,careless driving
+officer_698,0,drunk
+officer_698,1,speed
+officer_698,1,overtake
+officer_698,1,rule violating
+officer_698,0,turning
+officer_698,0,other
+officer_699,1,careless driving
+officer_699,0,drunk
+officer_699,0,speed
+officer_699,0,overtake
+officer_699,1,rule violating
+officer_699,1,turning
+officer_699,0,other
+officer_700,1,careless driving
+officer_700,0,drunk
+officer_700,1,speed
+officer_700,0,overtake
+officer_700,0,rule violating
+officer_700,1,turning
+officer_700,1,other
+officer_701,1,careless driving
+officer_701,1,drunk
+officer_701,1,speed
+officer_701,1,overtake
+officer_701,1,rule violating
+officer_701,0,turning
+officer_701,1,other
+officer_702,0,careless driving
+officer_702,0,drunk
+officer_702,1,speed
+officer_702,1,overtake
+officer_702,1,rule violating
+officer_702,0,turning
+officer_702,1,other
+officer_703,1,careless driving
+officer_703,1,drunk
+officer_703,1,speed
+officer_703,0,overtake
+officer_703,1,rule violating
+officer_703,0,turning
+officer_703,1,other
+officer_704,1,careless driving
+officer_704,0,drunk
+officer_704,1,speed
+officer_704,1,overtake
+officer_704,0,rule violating
+officer_704,0,turning
+officer_704,1,other
+officer_705,0,careless driving
+officer_705,0,drunk
+officer_705,0,speed
+officer_705,0,overtake
+officer_705,1,rule violating
+officer_705,1,turning
+officer_705,1,other
+officer_706,0,careless driving
+officer_706,1,drunk
+officer_706,0,speed
+officer_706,1,overtake
+officer_706,0,rule violating
+officer_706,1,turning
+officer_706,1,other
+officer_707,1,careless driving
+officer_707,1,drunk
+officer_707,0,speed
+officer_707,0,overtake
+officer_707,1,rule violating
+officer_707,1,turning
+officer_707,0,other
+officer_708,1,careless driving
+officer_708,0,drunk
+officer_708,1,speed
+officer_708,1,overtake
+officer_708,1,rule violating
+officer_708,0,turning
+officer_708,0,other
+officer_709,0,careless driving
+officer_709,1,drunk
+officer_709,0,speed
+officer_709,0,overtake
+officer_709,1,rule violating
+officer_709,1,turning
+officer_709,1,other
+officer_710,1,careless driving
+officer_710,0,drunk
+officer_710,1,speed
+officer_710,0,overtake
+officer_710,1,rule violating
+officer_710,1,turning
+officer_710,1,other
+officer_711,1,careless driving
+officer_711,1,drunk
+officer_711,0,speed
+officer_711,0,overtake
+officer_711,0,rule violating
+officer_711,1,turning
+officer_711,0,other
+officer_712,0,careless driving
+officer_712,0,drunk
+officer_712,0,speed
+officer_712,1,overtake
+officer_712,0,rule violating
+officer_712,0,turning
+officer_712,0,other
+officer_713,0,careless driving
+officer_713,1,drunk
+officer_713,1,speed
+officer_713,1,overtake
+officer_713,0,rule violating
+officer_713,0,turning
+officer_713,1,other
+officer_714,1,careless driving
+officer_714,0,drunk
+officer_714,1,speed
+officer_714,0,overtake
+officer_714,1,rule violating
+officer_714,0,turning
+officer_714,0,other
+officer_715,0,careless driving
+officer_715,1,drunk
+officer_715,1,speed
+officer_715,0,overtake
+officer_715,1,rule violating
+officer_715,0,turning
+officer_715,0,other
+officer_716,1,careless driving
+officer_716,1,drunk
+officer_716,0,speed
+officer_716,0,overtake
+officer_716,1,rule violating
+officer_716,0,turning
+officer_716,0,other
+officer_717,0,careless driving
+officer_717,0,drunk
+officer_717,0,speed
+officer_717,1,overtake
+officer_717,1,rule violating
+officer_717,0,turning
+officer_717,0,other
+officer_718,1,careless driving
+officer_718,0,drunk
+officer_718,1,speed
+officer_718,1,overtake
+officer_718,0,rule violating
+officer_718,0,turning
+officer_718,0,other
+officer_719,1,careless driving
+officer_719,1,drunk
+officer_719,0,speed
+officer_719,1,overtake
+officer_719,0,rule violating
+officer_719,0,turning
+officer_719,1,other
+officer_720,1,careless driving
+officer_720,0,drunk
+officer_720,1,speed
+officer_720,1,overtake
+officer_720,0,rule violating
+officer_720,0,turning
+officer_720,0,other
+officer_721,0,careless driving
+officer_721,1,drunk
+officer_721,0,speed
+officer_721,0,overtake
+officer_721,1,rule violating
+officer_721,1,turning
+officer_721,1,other
+officer_722,1,careless driving
+officer_722,1,drunk
+officer_722,1,speed
+officer_722,1,overtake
+officer_722,0,rule violating
+officer_722,0,turning
+officer_722,0,other
+officer_723,0,careless driving
+officer_723,0,drunk
+officer_723,0,speed
+officer_723,0,overtake
+officer_723,1,rule violating
+officer_723,0,turning
+officer_723,0,other
+officer_724,0,careless driving
+officer_724,1,drunk
+officer_724,1,speed
+officer_724,1,overtake
+officer_724,0,rule violating
+officer_724,1,turning
+officer_724,0,other
+officer_725,0,careless driving
+officer_725,1,drunk
+officer_725,0,speed
+officer_725,1,overtake
+officer_725,1,rule violating
+officer_725,1,turning
+officer_725,1,other
+officer_726,0,careless driving
+officer_726,1,drunk
+officer_726,0,speed
+officer_726,1,overtake
+officer_726,1,rule violating
+officer_726,1,turning
+officer_726,0,other
+officer_727,0,careless driving
+officer_727,0,drunk
+officer_727,1,speed
+officer_727,0,overtake
+officer_727,0,rule violating
+officer_727,0,turning
+officer_727,1,other
+officer_728,1,careless driving
+officer_728,0,drunk
+officer_728,1,speed
+officer_728,1,overtake
+officer_728,1,rule violating
+officer_728,0,turning
+officer_728,0,other
+officer_729,0,careless driving
+officer_729,1,drunk
+officer_729,1,speed
+officer_729,1,overtake
+officer_729,1,rule violating
+officer_729,1,turning
+officer_729,0,other
+officer_730,0,careless driving
+officer_730,0,drunk
+officer_730,0,speed
+officer_730,1,overtake
+officer_730,1,rule violating
+officer_730,0,turning
+officer_730,0,other
+officer_731,0,careless driving
+officer_731,1,drunk
+officer_731,0,speed
+officer_731,1,overtake
+officer_731,0,rule violating
+officer_731,0,turning
+officer_731,0,other
+officer_732,1,careless driving
+officer_732,1,drunk
+officer_732,0,speed
+officer_732,0,overtake
+officer_732,1,rule violating
+officer_732,1,turning
+officer_732,0,other
+officer_733,1,careless driving
+officer_733,1,drunk
+officer_733,0,speed
+officer_733,1,overtake
+officer_733,0,rule violating
+officer_733,0,turning
+officer_733,1,other
+officer_734,0,careless driving
+officer_734,1,drunk
+officer_734,0,speed
+officer_734,1,overtake
+officer_734,0,rule violating
+officer_734,1,turning
+officer_734,1,other
+officer_735,0,careless driving
+officer_735,0,drunk
+officer_735,0,speed
+officer_735,1,overtake
+officer_735,0,rule violating
+officer_735,1,turning
+officer_735,1,other
+officer_736,1,careless driving
+officer_736,1,drunk
+officer_736,0,speed
+officer_736,0,overtake
+officer_736,0,rule violating
+officer_736,1,turning
+officer_736,0,other
+officer_737,0,careless driving
+officer_737,0,drunk
+officer_737,1,speed
+officer_737,1,overtake
+officer_737,0,rule violating
+officer_737,1,turning
+officer_737,1,other
+officer_738,1,careless driving
+officer_738,1,drunk
+officer_738,0,speed
+officer_738,1,overtake
+officer_738,0,rule violating
+officer_738,1,turning
+officer_738,1,other
+officer_739,0,careless driving
+officer_739,0,drunk
+officer_739,0,speed
+officer_739,1,overtake
+officer_739,0,rule violating
+officer_739,1,turning
+officer_739,0,other
+officer_740,0,careless driving
+officer_740,0,drunk
+officer_740,1,speed
+officer_740,1,overtake
+officer_740,1,rule violating
+officer_740,0,turning
+officer_740,1,other
+officer_741,0,careless driving
+officer_741,1,drunk
+officer_741,1,speed
+officer_741,0,overtake
+officer_741,1,rule violating
+officer_741,1,turning
+officer_741,0,other
+officer_742,0,careless driving
+officer_742,0,drunk
+officer_742,0,speed
+officer_742,1,overtake
+officer_742,0,rule violating
+officer_742,0,turning
+officer_742,0,other
+officer_743,1,careless driving
+officer_743,0,drunk
+officer_743,1,speed
+officer_743,0,overtake
+officer_743,0,rule violating
+officer_743,1,turning
+officer_743,0,other
+officer_744,0,careless driving
+officer_744,1,drunk
+officer_744,1,speed
+officer_744,0,overtake
+officer_744,1,rule violating
+officer_744,0,turning
+officer_744,1,other
+officer_745,1,careless driving
+officer_745,0,drunk
+officer_745,0,speed
+officer_745,1,overtake
+officer_745,0,rule violating
+officer_745,1,turning
+officer_745,1,other
+officer_746,1,careless driving
+officer_746,0,drunk
+officer_746,1,speed
+officer_746,0,overtake
+officer_746,1,rule violating
+officer_746,1,turning
+officer_746,1,other
+officer_747,0,careless driving
+officer_747,0,drunk
+officer_747,0,speed
+officer_747,1,overtake
+officer_747,1,rule violating
+officer_747,0,turning
+officer_747,0,other
+officer_748,0,careless driving
+officer_748,0,drunk
+officer_748,1,speed
+officer_748,1,overtake
+officer_748,1,rule violating
+officer_748,1,turning
+officer_748,0,other
+officer_749,1,careless driving
+officer_749,1,drunk
+officer_749,1,speed
+officer_749,0,overtake
+officer_749,0,rule violating
+officer_749,1,turning
+officer_749,1,other
+officer_750,0,careless driving
+officer_750,0,drunk
+officer_750,0,speed
+officer_750,1,overtake
+officer_750,1,rule violating
+officer_750,0,turning
+officer_750,1,other
+officer_751,0,careless driving
+officer_751,0,drunk
+officer_751,0,speed
+officer_751,0,overtake
+officer_751,1,rule violating
+officer_751,0,turning
+officer_751,0,other
+officer_752,1,careless driving
+officer_752,1,drunk
+officer_752,1,speed
+officer_752,1,overtake
+officer_752,1,rule violating
+officer_752,1,turning
+officer_752,1,other
+officer_753,0,careless driving
+officer_753,0,drunk
+officer_753,1,speed
+officer_753,0,overtake
+officer_753,1,rule violating
+officer_753,1,turning
+officer_753,0,other
+officer_754,1,careless driving
+officer_754,0,drunk
+officer_754,0,speed
+officer_754,1,overtake
+officer_754,1,rule violating
+officer_754,1,turning
+officer_754,0,other
+officer_755,1,careless driving
+officer_755,0,drunk
+officer_755,1,speed
+officer_755,1,overtake
+officer_755,1,rule violating
+officer_755,1,turning
+officer_755,1,other
+officer_756,1,careless driving
+officer_756,1,drunk
+officer_756,0,speed
+officer_756,1,overtake
+officer_756,0,rule violating
+officer_756,1,turning
+officer_756,0,other
+officer_757,0,careless driving
+officer_757,1,drunk
+officer_757,0,speed
+officer_757,0,overtake
+officer_757,0,rule violating
+officer_757,1,turning
+officer_757,1,other
+officer_758,0,careless driving
+officer_758,1,drunk
+officer_758,0,speed
+officer_758,0,overtake
+officer_758,1,rule violating
+officer_758,0,turning
+officer_758,1,other
+officer_759,0,careless driving
+officer_759,0,drunk
+officer_759,1,speed
+officer_759,0,overtake
+officer_759,0,rule violating
+officer_759,0,turning
+officer_759,1,other
+officer_760,1,careless driving
+officer_760,1,drunk
+officer_760,0,speed
+officer_760,1,overtake
+officer_760,1,rule violating
+officer_760,0,turning
+officer_760,0,other
+officer_761,1,careless driving
+officer_761,1,drunk
+officer_761,0,speed
+officer_761,1,overtake
+officer_761,1,rule violating
+officer_761,1,turning
+officer_761,0,other
+officer_762,1,careless driving
+officer_762,0,drunk
+officer_762,1,speed
+officer_762,1,overtake
+officer_762,1,rule violating
+officer_762,1,turning
+officer_762,0,other
+officer_763,0,careless driving
+officer_763,0,drunk
+officer_763,0,speed
+officer_763,0,overtake
+officer_763,0,rule violating
+officer_763,1,turning
+officer_763,1,other
+officer_764,0,careless driving
+officer_764,1,drunk
+officer_764,1,speed
+officer_764,0,overtake
+officer_764,1,rule violating
+officer_764,1,turning
+officer_764,1,other
+officer_765,0,careless driving
+officer_765,1,drunk
+officer_765,0,speed
+officer_765,0,overtake
+officer_765,0,rule violating
+officer_765,1,turning
+officer_765,0,other
+officer_766,1,careless driving
+officer_766,0,drunk
+officer_766,0,speed
+officer_766,1,overtake
+officer_766,0,rule violating
+officer_766,0,turning
+officer_766,1,other
+officer_767,0,careless driving
+officer_767,1,drunk
+officer_767,0,speed
+officer_767,0,overtake
+officer_767,1,rule violating
+officer_767,1,turning
+officer_767,0,other
+officer_768,0,careless driving
+officer_768,0,drunk
+officer_768,1,speed
+officer_768,0,overtake
+officer_768,0,rule violating
+officer_768,1,turning
+officer_768,0,other
+officer_769,0,careless driving
+officer_769,0,drunk
+officer_769,0,speed
+officer_769,1,overtake
+officer_769,0,rule violating
+officer_769,1,turning
+officer_769,0,other
+officer_770,1,careless driving
+officer_770,0,drunk
+officer_770,0,speed
+officer_770,0,overtake
+officer_770,1,rule violating
+officer_770,1,turning
+officer_770,0,other
+officer_771,1,careless driving
+officer_771,1,drunk
+officer_771,0,speed
+officer_771,0,overtake
+officer_771,1,rule violating
+officer_771,1,turning
+officer_771,1,other
+officer_772,0,careless driving
+officer_772,0,drunk
+officer_772,0,speed
+officer_772,1,overtake
+officer_772,0,rule violating
+officer_772,1,turning
+officer_772,0,other
+officer_773,0,careless driving
+officer_773,1,drunk
+officer_773,1,speed
+officer_773,1,overtake
+officer_773,0,rule violating
+officer_773,1,turning
+officer_773,0,other
+officer_774,1,careless driving
+officer_774,0,drunk
+officer_774,1,speed
+officer_774,0,overtake
+officer_774,0,rule violating
+officer_774,1,turning
+officer_774,0,other
+officer_775,1,careless driving
+officer_775,1,drunk
+officer_775,0,speed
+officer_775,1,overtake
+officer_775,1,rule violating
+officer_775,1,turning
+officer_775,1,other
+officer_776,1,careless driving
+officer_776,1,drunk
+officer_776,0,speed
+officer_776,0,overtake
+officer_776,1,rule violating
+officer_776,0,turning
+officer_776,0,other
+officer_777,1,careless driving
+officer_777,0,drunk
+officer_777,0,speed
+officer_777,1,overtake
+officer_777,0,rule violating
+officer_777,0,turning
+officer_777,0,other
+officer_778,1,careless driving
+officer_778,0,drunk
+officer_778,1,speed
+officer_778,0,overtake
+officer_778,0,rule violating
+officer_778,1,turning
+officer_778,0,other
+officer_779,0,careless driving
+officer_779,1,drunk
+officer_779,1,speed
+officer_779,1,overtake
+officer_779,0,rule violating
+officer_779,1,turning
+officer_779,0,other
+officer_780,0,careless driving
+officer_780,1,drunk
+officer_780,1,speed
+officer_780,1,overtake
+officer_780,1,rule violating
+officer_780,1,turning
+officer_780,0,other
+officer_781,1,careless driving
+officer_781,0,drunk
+officer_781,0,speed
+officer_781,1,overtake
+officer_781,1,rule violating
+officer_781,0,turning
+officer_781,0,other
+officer_782,1,careless driving
+officer_782,1,drunk
+officer_782,1,speed
+officer_782,1,overtake
+officer_782,0,rule violating
+officer_782,1,turning
+officer_782,1,other
+officer_783,0,careless driving
+officer_783,1,drunk
+officer_783,0,speed
+officer_783,1,overtake
+officer_783,1,rule violating
+officer_783,1,turning
+officer_783,0,other
+officer_784,1,careless driving
+officer_784,0,drunk
+officer_784,1,speed
+officer_784,0,overtake
+officer_784,0,rule violating
+officer_784,0,turning
+officer_784,1,other
+officer_785,1,careless driving
+officer_785,0,drunk
+officer_785,1,speed
+officer_785,1,overtake
+officer_785,0,rule violating
+officer_785,0,turning
+officer_785,1,other
+officer_786,1,careless driving
+officer_786,0,drunk
+officer_786,1,speed
+officer_786,1,overtake
+officer_786,1,rule violating
+officer_786,1,turning
+officer_786,1,other
+officer_787,1,careless driving
+officer_787,1,drunk
+officer_787,0,speed
+officer_787,0,overtake
+officer_787,0,rule violating
+officer_787,0,turning
+officer_787,1,other
+officer_788,1,careless driving
+officer_788,0,drunk
+officer_788,1,speed
+officer_788,0,overtake
+officer_788,1,rule violating
+officer_788,1,turning
+officer_788,1,other
+officer_789,0,careless driving
+officer_789,0,drunk
+officer_789,1,speed
+officer_789,1,overtake
+officer_789,0,rule violating
+officer_789,1,turning
+officer_789,1,other
+officer_790,1,careless driving
+officer_790,0,drunk
+officer_790,1,speed
+officer_790,1,overtake
+officer_790,1,rule violating
+officer_790,1,turning
+officer_790,1,other
+officer_791,1,careless driving
+officer_791,1,drunk
+officer_791,1,speed
+officer_791,0,overtake
+officer_791,1,rule violating
+officer_791,1,turning
+officer_791,0,other
+officer_792,1,careless driving
+officer_792,1,drunk
+officer_792,0,speed
+officer_792,1,overtake
+officer_792,0,rule violating
+officer_792,0,turning
+officer_792,0,other
+officer_793,1,careless driving
+officer_793,0,drunk
+officer_793,0,speed
+officer_793,1,overtake
+officer_793,1,rule violating
+officer_793,1,turning
+officer_793,1,other
+officer_794,1,careless driving
+officer_794,0,drunk
+officer_794,0,speed
+officer_794,0,overtake
+officer_794,0,rule violating
+officer_794,0,turning
+officer_794,1,other
+officer_795,1,careless driving
+officer_795,1,drunk
+officer_795,0,speed
+officer_795,0,overtake
+officer_795,0,rule violating
+officer_795,1,turning
+officer_795,0,other
+officer_796,0,careless driving
+officer_796,1,drunk
+officer_796,1,speed
+officer_796,0,overtake
+officer_796,0,rule violating
+officer_796,0,turning
+officer_796,1,other
+officer_797,1,careless driving
+officer_797,1,drunk
+officer_797,1,speed
+officer_797,1,overtake
+officer_797,1,rule violating
+officer_797,1,turning
+officer_797,0,other
+officer_798,0,careless driving
+officer_798,1,drunk
+officer_798,0,speed
+officer_798,0,overtake
+officer_798,0,rule violating
+officer_798,0,turning
+officer_798,1,other
+officer_799,0,careless driving
+officer_799,0,drunk
+officer_799,1,speed
+officer_799,0,overtake
+officer_799,1,rule violating
+officer_799,1,turning
+officer_799,0,other
+officer_800,0,careless driving
+officer_800,1,drunk
+officer_800,0,speed
+officer_800,0,overtake
+officer_800,0,rule violating
+officer_800,0,turning
+officer_800,0,other
+officer_801,1,careless driving
+officer_801,1,drunk
+officer_801,1,speed
+officer_801,1,overtake
+officer_801,0,rule violating
+officer_801,1,turning
+officer_801,0,other
+officer_802,1,careless driving
+officer_802,0,drunk
+officer_802,0,speed
+officer_802,0,overtake
+officer_802,0,rule violating
+officer_802,0,turning
+officer_802,0,other
+officer_803,0,careless driving
+officer_803,1,drunk
+officer_803,0,speed
+officer_803,1,overtake
+officer_803,1,rule violating
+officer_803,0,turning
+officer_803,0,other
+officer_804,1,careless driving
+officer_804,0,drunk
+officer_804,0,speed
+officer_804,0,overtake
+officer_804,0,rule violating
+officer_804,0,turning
+officer_804,1,other
+officer_805,1,careless driving
+officer_805,1,drunk
+officer_805,0,speed
+officer_805,0,overtake
+officer_805,1,rule violating
+officer_805,0,turning
+officer_805,0,other
+officer_806,1,careless driving
+officer_806,1,drunk
+officer_806,1,speed
+officer_806,1,overtake
+officer_806,1,rule violating
+officer_806,0,turning
+officer_806,1,other
+officer_807,1,careless driving
+officer_807,1,drunk
+officer_807,1,speed
+officer_807,0,overtake
+officer_807,1,rule violating
+officer_807,0,turning
+officer_807,1,other
+officer_808,0,careless driving
+officer_808,1,drunk
+officer_808,0,speed
+officer_808,1,overtake
+officer_808,1,rule violating
+officer_808,1,turning
+officer_808,0,other
+officer_809,1,careless driving
+officer_809,1,drunk
+officer_809,0,speed
+officer_809,1,overtake
+officer_809,1,rule violating
+officer_809,0,turning
+officer_809,1,other
+officer_810,1,careless driving
+officer_810,0,drunk
+officer_810,0,speed
+officer_810,1,overtake
+officer_810,1,rule violating
+officer_810,0,turning
+officer_810,1,other
+officer_811,1,careless driving
+officer_811,0,drunk
+officer_811,1,speed
+officer_811,1,overtake
+officer_811,1,rule violating
+officer_811,0,turning
+officer_811,0,other
+officer_812,1,careless driving
+officer_812,1,drunk
+officer_812,1,speed
+officer_812,0,overtake
+officer_812,1,rule violating
+officer_812,0,turning
+officer_812,0,other
+officer_813,0,careless driving
+officer_813,1,drunk
+officer_813,0,speed
+officer_813,0,overtake
+officer_813,1,rule violating
+officer_813,1,turning
+officer_813,1,other
+officer_814,0,careless driving
+officer_814,1,drunk
+officer_814,0,speed
+officer_814,1,overtake
+officer_814,0,rule violating
+officer_814,0,turning
+officer_814,1,other
+officer_815,0,careless driving
+officer_815,0,drunk
+officer_815,0,speed
+officer_815,0,overtake
+officer_815,0,rule violating
+officer_815,0,turning
+officer_815,1,other
+officer_816,0,careless driving
+officer_816,0,drunk
+officer_816,1,speed
+officer_816,0,overtake
+officer_816,1,rule violating
+officer_816,0,turning
+officer_816,0,other
+officer_817,0,careless driving
+officer_817,1,drunk
+officer_817,0,speed
+officer_817,1,overtake
+officer_817,0,rule violating
+officer_817,0,turning
+officer_817,1,other
+officer_818,1,careless driving
+officer_818,1,drunk
+officer_818,0,speed
+officer_818,0,overtake
+officer_818,0,rule violating
+officer_818,1,turning
+officer_818,1,other
+officer_819,1,careless driving
+officer_819,1,drunk
+officer_819,0,speed
+officer_819,0,overtake
+officer_819,1,rule violating
+officer_819,1,turning
+officer_819,1,other
+officer_820,1,careless driving
+officer_820,0,drunk
+officer_820,1,speed
+officer_820,1,overtake
+officer_820,1,rule violating
+officer_820,0,turning
+officer_820,1,other
+officer_821,1,careless driving
+officer_821,1,drunk
+officer_821,1,speed
+officer_821,0,overtake
+officer_821,1,rule violating
+officer_821,1,turning
+officer_821,1,other
+officer_822,0,careless driving
+officer_822,0,drunk
+officer_822,1,speed
+officer_822,0,overtake
+officer_822,1,rule violating
+officer_822,0,turning
+officer_822,0,other
+officer_823,1,careless driving
+officer_823,0,drunk
+officer_823,1,speed
+officer_823,0,overtake
+officer_823,0,rule violating
+officer_823,1,turning
+officer_823,1,other
+officer_824,0,careless driving
+officer_824,0,drunk
+officer_824,0,speed
+officer_824,1,overtake
+officer_824,0,rule violating
+officer_824,1,turning
+officer_824,1,other
+officer_825,0,careless driving
+officer_825,0,drunk
+officer_825,1,speed
+officer_825,0,overtake
+officer_825,0,rule violating
+officer_825,0,turning
+officer_825,1,other
+officer_826,1,careless driving
+officer_826,0,drunk
+officer_826,0,speed
+officer_826,0,overtake
+officer_826,1,rule violating
+officer_826,0,turning
+officer_826,0,other
+officer_827,0,careless driving
+officer_827,1,drunk
+officer_827,0,speed
+officer_827,0,overtake
+officer_827,0,rule violating
+officer_827,1,turning
+officer_827,0,other
+officer_828,0,careless driving
+officer_828,1,drunk
+officer_828,0,speed
+officer_828,0,overtake
+officer_828,1,rule violating
+officer_828,1,turning
+officer_828,1,other
+officer_829,1,careless driving
+officer_829,0,drunk
+officer_829,0,speed
+officer_829,1,overtake
+officer_829,0,rule violating
+officer_829,0,turning
+officer_829,1,other
+officer_830,0,careless driving
+officer_830,1,drunk
+officer_830,1,speed
+officer_830,1,overtake
+officer_830,0,rule violating
+officer_830,0,turning
+officer_830,0,other
+officer_831,0,careless driving
+officer_831,1,drunk
+officer_831,1,speed
+officer_831,1,overtake
+officer_831,1,rule violating
+officer_831,1,turning
+officer_831,1,other
+officer_832,1,careless driving
+officer_832,1,drunk
+officer_832,0,speed
+officer_832,1,overtake
+officer_832,0,rule violating
+officer_832,0,turning
+officer_832,0,other
+officer_833,0,careless driving
+officer_833,1,drunk
+officer_833,1,speed
+officer_833,0,overtake
+officer_833,0,rule violating
+officer_833,1,turning
+officer_833,1,other
+officer_834,0,careless driving
+officer_834,0,drunk
+officer_834,0,speed
+officer_834,1,overtake
+officer_834,1,rule violating
+officer_834,1,turning
+officer_834,1,other
+officer_835,0,careless driving
+officer_835,1,drunk
+officer_835,1,speed
+officer_835,1,overtake
+officer_835,1,rule violating
+officer_835,0,turning
+officer_835,1,other
+officer_836,0,careless driving
+officer_836,0,drunk
+officer_836,1,speed
+officer_836,1,overtake
+officer_836,1,rule violating
+officer_836,1,turning
+officer_836,1,other
+officer_837,1,careless driving
+officer_837,1,drunk
+officer_837,1,speed
+officer_837,1,overtake
+officer_837,1,rule violating
+officer_837,1,turning
+officer_837,0,other
+officer_838,1,careless driving
+officer_838,0,drunk
+officer_838,0,speed
+officer_838,1,overtake
+officer_838,1,rule violating
+officer_838,1,turning
+officer_838,1,other
+officer_839,0,careless driving
+officer_839,1,drunk
+officer_839,1,speed
+officer_839,1,overtake
+officer_839,0,rule violating
+officer_839,1,turning
+officer_839,1,other
+officer_840,1,careless driving
+officer_840,0,drunk
+officer_840,1,speed
+officer_840,0,overtake
+officer_840,1,rule violating
+officer_840,0,turning
+officer_840,1,other
+officer_841,0,careless driving
+officer_841,0,drunk
+officer_841,0,speed
+officer_841,0,overtake
+officer_841,1,rule violating
+officer_841,1,turning
+officer_841,1,other
+officer_842,0,careless driving
+officer_842,0,drunk
+officer_842,0,speed
+officer_842,1,overtake
+officer_842,0,rule violating
+officer_842,1,turning
+officer_842,0,other
+officer_843,1,careless driving
+officer_843,0,drunk
+officer_843,0,speed
+officer_843,0,overtake
+officer_843,1,rule violating
+officer_843,0,turning
+officer_843,0,other
+officer_844,0,careless driving
+officer_844,1,drunk
+officer_844,1,speed
+officer_844,0,overtake
+officer_844,0,rule violating
+officer_844,0,turning
+officer_844,0,other
+officer_845,0,careless driving
+officer_845,1,drunk
+officer_845,1,speed
+officer_845,1,overtake
+officer_845,1,rule violating
+officer_845,1,turning
+officer_845,1,other
+officer_846,0,careless driving
+officer_846,0,drunk
+officer_846,1,speed
+officer_846,0,overtake
+officer_846,0,rule violating
+officer_846,0,turning
+officer_846,0,other
+officer_847,1,careless driving
+officer_847,1,drunk
+officer_847,0,speed
+officer_847,1,overtake
+officer_847,1,rule violating
+officer_847,0,turning
+officer_847,1,other
+officer_848,0,careless driving
+officer_848,0,drunk
+officer_848,0,speed
+officer_848,1,overtake
+officer_848,0,rule violating
+officer_848,1,turning
+officer_848,1,other
+officer_849,0,careless driving
+officer_849,0,drunk
+officer_849,1,speed
+officer_849,1,overtake
+officer_849,1,rule violating
+officer_849,1,turning
+officer_849,1,other
+officer_850,1,careless driving
+officer_850,0,drunk
+officer_850,0,speed
+officer_850,1,overtake
+officer_850,1,rule violating
+officer_850,1,turning
+officer_850,1,other
+officer_851,0,careless driving
+officer_851,1,drunk
+officer_851,1,speed
+officer_851,0,overtake
+officer_851,1,rule violating
+officer_851,1,turning
+officer_851,1,other
+officer_852,0,careless driving
+officer_852,1,drunk
+officer_852,1,speed
+officer_852,0,overtake
+officer_852,0,rule violating
+officer_852,0,turning
+officer_852,1,other
+officer_853,0,careless driving
+officer_853,1,drunk
+officer_853,0,speed
+officer_853,1,overtake
+officer_853,0,rule violating
+officer_853,0,turning
+officer_853,1,other
+officer_854,1,careless driving
+officer_854,0,drunk
+officer_854,1,speed
+officer_854,1,overtake
+officer_854,0,rule violating
+officer_854,0,turning
+officer_854,0,other
+officer_855,0,careless driving
+officer_855,0,drunk
+officer_855,0,speed
+officer_855,1,overtake
+officer_855,1,rule violating
+officer_855,1,turning
+officer_855,1,other
+officer_856,0,careless driving
+officer_856,1,drunk
+officer_856,1,speed
+officer_856,1,overtake
+officer_856,1,rule violating
+officer_856,1,turning
+officer_856,0,other
+officer_857,0,careless driving
+officer_857,0,drunk
+officer_857,0,speed
+officer_857,1,overtake
+officer_857,0,rule violating
+officer_857,1,turning
+officer_857,1,other
+officer_858,1,careless driving
+officer_858,1,drunk
+officer_858,1,speed
+officer_858,0,overtake
+officer_858,0,rule violating
+officer_858,0,turning
+officer_858,0,other
+officer_859,0,careless driving
+officer_859,0,drunk
+officer_859,1,speed
+officer_859,1,overtake
+officer_859,0,rule violating
+officer_859,0,turning
+officer_859,0,other
+officer_860,0,careless driving
+officer_860,1,drunk
+officer_860,0,speed
+officer_860,1,overtake
+officer_860,1,rule violating
+officer_860,0,turning
+officer_860,1,other
+officer_861,1,careless driving
+officer_861,0,drunk
+officer_861,0,speed
+officer_861,1,overtake
+officer_861,0,rule violating
+officer_861,1,turning
+officer_861,0,other
+officer_862,1,careless driving
+officer_862,1,drunk
+officer_862,0,speed
+officer_862,0,overtake
+officer_862,1,rule violating
+officer_862,1,turning
+officer_862,1,other
+officer_863,1,careless driving
+officer_863,0,drunk
+officer_863,0,speed
+officer_863,1,overtake
+officer_863,0,rule violating
+officer_863,1,turning
+officer_863,1,other
+officer_864,0,careless driving
+officer_864,0,drunk
+officer_864,1,speed
+officer_864,0,overtake
+officer_864,1,rule violating
+officer_864,1,turning
+officer_864,0,other
+officer_865,1,careless driving
+officer_865,0,drunk
+officer_865,1,speed
+officer_865,1,overtake
+officer_865,0,rule violating
+officer_865,1,turning
+officer_865,0,other
+officer_866,1,careless driving
+officer_866,1,drunk
+officer_866,0,speed
+officer_866,1,overtake
+officer_866,0,rule violating
+officer_866,1,turning
+officer_866,0,other
+officer_867,0,careless driving
+officer_867,0,drunk
+officer_867,1,speed
+officer_867,0,overtake
+officer_867,1,rule violating
+officer_867,0,turning
+officer_867,1,other
+officer_868,1,careless driving
+officer_868,0,drunk
+officer_868,0,speed
+officer_868,0,overtake
+officer_868,1,rule violating
+officer_868,1,turning
+officer_868,1,other
+officer_869,0,careless driving
+officer_869,1,drunk
+officer_869,1,speed
+officer_869,1,overtake
+officer_869,0,rule violating
+officer_869,0,turning
+officer_869,1,other
+officer_870,1,careless driving
+officer_870,0,drunk
+officer_870,0,speed
+officer_870,0,overtake
+officer_870,0,rule violating
+officer_870,1,turning
+officer_870,1,other
+officer_871,0,careless driving
+officer_871,1,drunk
+officer_871,0,speed
+officer_871,0,overtake
+officer_871,1,rule violating
+officer_871,1,turning
+officer_871,1,other
+officer_872,1,careless driving
+officer_872,1,drunk
+officer_872,0,speed
+officer_872,0,overtake
+officer_872,0,rule violating
+officer_872,0,turning
+officer_872,0,other
+officer_873,1,careless driving
+officer_873,1,drunk
+officer_873,1,speed
+officer_873,1,overtake
+officer_873,0,rule violating
+officer_873,0,turning
+officer_873,1,other
+officer_874,0,careless driving
+officer_874,1,drunk
+officer_874,1,speed
+officer_874,1,overtake
+officer_874,0,rule violating
+officer_874,1,turning
+officer_874,0,other
+officer_875,1,careless driving
+officer_875,0,drunk
+officer_875,0,speed
+officer_875,0,overtake
+officer_875,1,rule violating
+officer_875,1,turning
+officer_875,0,other
+officer_876,1,careless driving
+officer_876,0,drunk
+officer_876,1,speed
+officer_876,0,overtake
+officer_876,0,rule violating
+officer_876,1,turning
+officer_876,1,other
+officer_877,0,careless driving
+officer_877,0,drunk
+officer_877,0,speed
+officer_877,1,overtake
+officer_877,1,rule violating
+officer_877,1,turning
+officer_877,1,other
+officer_878,0,careless driving
+officer_878,1,drunk
+officer_878,0,speed
+officer_878,0,overtake
+officer_878,1,rule violating
+officer_878,1,turning
+officer_878,0,other
+officer_879,1,careless driving
+officer_879,0,drunk
+officer_879,1,speed
+officer_879,1,overtake
+officer_879,0,rule violating
+officer_879,0,turning
+officer_879,1,other
+officer_880,0,careless driving
+officer_880,0,drunk
+officer_880,1,speed
+officer_880,0,overtake
+officer_880,0,rule violating
+officer_880,1,turning
+officer_880,1,other
+officer_881,1,careless driving
+officer_881,1,drunk
+officer_881,0,speed
+officer_881,0,overtake
+officer_881,1,rule violating
+officer_881,1,turning
+officer_881,1,other
+officer_882,0,careless driving
+officer_882,1,drunk
+officer_882,1,speed
+officer_882,0,overtake
+officer_882,1,rule violating
+officer_882,0,turning
+officer_882,0,other
+officer_883,0,careless driving
+officer_883,1,drunk
+officer_883,1,speed
+officer_883,1,overtake
+officer_883,0,rule violating
+officer_883,0,turning
+officer_883,0,other
+officer_884,0,careless driving
+officer_884,0,drunk
+officer_884,1,speed
+officer_884,0,overtake
+officer_884,1,rule violating
+officer_884,1,turning
+officer_884,0,other
+officer_885,1,careless driving
+officer_885,0,drunk
+officer_885,0,speed
+officer_885,1,overtake
+officer_885,1,rule violating
+officer_885,1,turning
+officer_885,1,other
+officer_886,1,careless driving
+officer_886,0,drunk
+officer_886,1,speed
+officer_886,1,overtake
+officer_886,0,rule violating
+officer_886,0,turning
+officer_886,1,other
+officer_887,1,careless driving
+officer_887,1,drunk
+officer_887,0,speed
+officer_887,0,overtake
+officer_887,0,rule violating
+officer_887,1,turning
+officer_887,0,other
+officer_888,1,careless driving
+officer_888,1,drunk
+officer_888,1,speed
+officer_888,0,overtake
+officer_888,0,rule violating
+officer_888,1,turning
+officer_888,0,other
+officer_889,0,careless driving
+officer_889,0,drunk
+officer_889,0,speed
+officer_889,0,overtake
+officer_889,1,rule violating
+officer_889,0,turning
+officer_889,1,other
+officer_890,1,careless driving
+officer_890,1,drunk
+officer_890,0,speed
+officer_890,1,overtake
+officer_890,0,rule violating
+officer_890,0,turning
+officer_890,1,other
+officer_891,1,careless driving
+officer_891,0,drunk
+officer_891,0,speed
+officer_891,0,overtake
+officer_891,1,rule violating
+officer_891,0,turning
+officer_891,0,other
+officer_892,0,careless driving
+officer_892,1,drunk
+officer_892,0,speed
+officer_892,0,overtake
+officer_892,0,rule violating
+officer_892,0,turning
+officer_892,0,other
+officer_893,0,careless driving
+officer_893,1,drunk
+officer_893,1,speed
+officer_893,1,overtake
+officer_893,0,rule violating
+officer_893,1,turning
+officer_893,1,other
+officer_894,0,careless driving
+officer_894,1,drunk
+officer_894,1,speed
+officer_894,0,overtake
+officer_894,1,rule violating
+officer_894,0,turning
+officer_894,1,other
+officer_895,0,careless driving
+officer_895,1,drunk
+officer_895,1,speed
+officer_895,0,overtake
+officer_895,0,rule violating
+officer_895,0,turning
+officer_895,1,other
+officer_896,1,careless driving
+officer_896,0,drunk
+officer_896,0,speed
+officer_896,1,overtake
+officer_896,1,rule violating
+officer_896,1,turning
+officer_896,1,other
+officer_897,0,careless driving
+officer_897,1,drunk
+officer_897,0,speed
+officer_897,1,overtake
+officer_897,1,rule violating
+officer_897,0,turning
+officer_897,0,other
+officer_898,0,careless driving
+officer_898,1,drunk
+officer_898,0,speed
+officer_898,0,overtake
+officer_898,0,rule violating
+officer_898,1,turning
+officer_898,1,other
+officer_899,1,careless driving
+officer_899,1,drunk
+officer_899,0,speed
+officer_899,0,overtake
+officer_899,0,rule violating
+officer_899,0,turning
+officer_899,1,other
+officer_900,1,careless driving
+officer_900,0,drunk
+officer_900,1,speed
+officer_900,1,overtake
+officer_900,1,rule violating
+officer_900,0,turning
+officer_900,1,other
+officer_901,1,careless driving
+officer_901,1,drunk
+officer_901,0,speed
+officer_901,0,overtake
+officer_901,1,rule violating
+officer_901,1,turning
+officer_901,0,other
+officer_902,1,careless driving
+officer_902,1,drunk
+officer_902,1,speed
+officer_902,0,overtake
+officer_902,0,rule violating
+officer_902,0,turning
+officer_902,0,other
+officer_903,0,careless driving
+officer_903,0,drunk
+officer_903,1,speed
+officer_903,0,overtake
+officer_903,1,rule violating
+officer_903,1,turning
+officer_903,0,other
+officer_904,0,careless driving
+officer_904,1,drunk
+officer_904,1,speed
+officer_904,1,overtake
+officer_904,1,rule violating
+officer_904,1,turning
+officer_904,0,other
+officer_905,0,careless driving
+officer_905,0,drunk
+officer_905,1,speed
+officer_905,0,overtake
+officer_905,0,rule violating
+officer_905,0,turning
+officer_905,1,other
+officer_906,0,careless driving
+officer_906,1,drunk
+officer_906,0,speed
+officer_906,0,overtake
+officer_906,1,rule violating
+officer_906,0,turning
+officer_906,0,other
+officer_907,0,careless driving
+officer_907,0,drunk
+officer_907,1,speed
+officer_907,1,overtake
+officer_907,1,rule violating
+officer_907,1,turning
+officer_907,1,other
+officer_908,0,careless driving
+officer_908,1,drunk
+officer_908,0,speed
+officer_908,0,overtake
+officer_908,0,rule violating
+officer_908,1,turning
+officer_908,0,other
+officer_909,0,careless driving
+officer_909,1,drunk
+officer_909,0,speed
+officer_909,1,overtake
+officer_909,1,rule violating
+officer_909,0,turning
+officer_909,0,other
+officer_910,0,careless driving
+officer_910,1,drunk
+officer_910,0,speed
+officer_910,1,overtake
+officer_910,1,rule violating
+officer_910,0,turning
+officer_910,0,other
+officer_911,1,careless driving
+officer_911,0,drunk
+officer_911,1,speed
+officer_911,1,overtake
+officer_911,0,rule violating
+officer_911,0,turning
+officer_911,0,other
+officer_912,1,careless driving
+officer_912,1,drunk
+officer_912,0,speed
+officer_912,1,overtake
+officer_912,1,rule violating
+officer_912,1,turning
+officer_912,0,other
+officer_913,0,careless driving
+officer_913,0,drunk
+officer_913,0,speed
+officer_913,1,overtake
+officer_913,1,rule violating
+officer_913,0,turning
+officer_913,1,other
+officer_914,1,careless driving
+officer_914,0,drunk
+officer_914,1,speed
+officer_914,0,overtake
+officer_914,1,rule violating
+officer_914,0,turning
+officer_914,0,other
+officer_915,0,careless driving
+officer_915,1,drunk
+officer_915,0,speed
+officer_915,0,overtake
+officer_915,0,rule violating
+officer_915,0,turning
+officer_915,1,other
+officer_916,0,careless driving
+officer_916,0,drunk
+officer_916,1,speed
+officer_916,1,overtake
+officer_916,0,rule violating
+officer_916,1,turning
+officer_916,0,other
+officer_917,1,careless driving
+officer_917,0,drunk
+officer_917,0,speed
+officer_917,0,overtake
+officer_917,1,rule violating
+officer_917,0,turning
+officer_917,0,other
+officer_918,1,careless driving
+officer_918,1,drunk
+officer_918,1,speed
+officer_918,1,overtake
+officer_918,0,rule violating
+officer_918,0,turning
+officer_918,1,other
+officer_919,1,careless driving
+officer_919,1,drunk
+officer_919,0,speed
+officer_919,1,overtake
+officer_919,1,rule violating
+officer_919,1,turning
+officer_919,1,other
+officer_920,0,careless driving
+officer_920,0,drunk
+officer_920,1,speed
+officer_920,0,overtake
+officer_920,0,rule violating
+officer_920,0,turning
+officer_920,0,other
+officer_921,1,careless driving
+officer_921,0,drunk
+officer_921,1,speed
+officer_921,0,overtake
+officer_921,0,rule violating
+officer_921,1,turning
+officer_921,0,other
+officer_922,1,careless driving
+officer_922,1,drunk
+officer_922,1,speed
+officer_922,0,overtake
+officer_922,0,rule violating
+officer_922,0,turning
+officer_922,1,other
+officer_923,0,careless driving
+officer_923,1,drunk
+officer_923,0,speed
+officer_923,0,overtake
+officer_923,0,rule violating
+officer_923,1,turning
+officer_923,0,other
+officer_924,0,careless driving
+officer_924,1,drunk
+officer_924,0,speed
+officer_924,1,overtake
+officer_924,0,rule violating
+officer_924,0,turning
+officer_924,1,other
+officer_925,1,careless driving
+officer_925,1,drunk
+officer_925,0,speed
+officer_925,1,overtake
+officer_925,0,rule violating
+officer_925,1,turning
+officer_925,1,other
+officer_926,0,careless driving
+officer_926,0,drunk
+officer_926,0,speed
+officer_926,0,overtake
+officer_926,1,rule violating
+officer_926,0,turning
+officer_926,0,other
+officer_927,0,careless driving
+officer_927,0,drunk
+officer_927,0,speed
+officer_927,0,overtake
+officer_927,0,rule violating
+officer_927,0,turning
+officer_927,0,other
+officer_928,0,careless driving
+officer_928,0,drunk
+officer_928,0,speed
+officer_928,0,overtake
+officer_928,0,rule violating
+officer_928,0,turning
+officer_928,0,other
+officer_929,0,careless driving
+officer_929,0,drunk
+officer_929,1,speed
+officer_929,1,overtake
+officer_929,1,rule violating
+officer_929,0,turning
+officer_929,1,other
+officer_930,0,careless driving
+officer_930,0,drunk
+officer_930,1,speed
+officer_930,1,overtake
+officer_930,0,rule violating
+officer_930,1,turning
+officer_930,0,other
+officer_931,1,careless driving
+officer_931,1,drunk
+officer_931,0,speed
+officer_931,0,overtake
+officer_931,1,rule violating
+officer_931,0,turning
+officer_931,0,other
+officer_932,1,careless driving
+officer_932,0,drunk
+officer_932,1,speed
+officer_932,0,overtake
+officer_932,1,rule violating
+officer_932,1,turning
+officer_932,0,other
+officer_933,0,careless driving
+officer_933,1,drunk
+officer_933,1,speed
+officer_933,1,overtake
+officer_933,1,rule violating
+officer_933,1,turning
+officer_933,0,other
+officer_934,1,careless driving
+officer_934,0,drunk
+officer_934,0,speed
+officer_934,1,overtake
+officer_934,0,rule violating
+officer_934,0,turning
+officer_934,0,other
+officer_935,0,careless driving
+officer_935,0,drunk
+officer_935,0,speed
+officer_935,1,overtake
+officer_935,0,rule violating
+officer_935,1,turning
+officer_935,1,other
+officer_936,1,careless driving
+officer_936,0,drunk
+officer_936,1,speed
+officer_936,0,overtake
+officer_936,1,rule violating
+officer_936,1,turning
+officer_936,1,other
+officer_937,1,careless driving
+officer_937,1,drunk
+officer_937,0,speed
+officer_937,1,overtake
+officer_937,1,rule violating
+officer_937,1,turning
+officer_937,1,other
+officer_938,0,careless driving
+officer_938,1,drunk
+officer_938,0,speed
+officer_938,1,overtake
+officer_938,0,rule violating
+officer_938,1,turning
+officer_938,1,other
+officer_939,1,careless driving
+officer_939,1,drunk
+officer_939,1,speed
+officer_939,1,overtake
+officer_939,1,rule violating
+officer_939,1,turning
+officer_939,1,other
+officer_940,1,careless driving
+officer_940,0,drunk
+officer_940,1,speed
+officer_940,1,overtake
+officer_940,0,rule violating
+officer_940,0,turning
+officer_940,1,other
+officer_941,1,careless driving
+officer_941,0,drunk
+officer_941,1,speed
+officer_941,1,overtake
+officer_941,0,rule violating
+officer_941,1,turning
+officer_941,1,other
+officer_942,0,careless driving
+officer_942,0,drunk
+officer_942,1,speed
+officer_942,0,overtake
+officer_942,1,rule violating
+officer_942,0,turning
+officer_942,0,other
+officer_943,1,careless driving
+officer_943,0,drunk
+officer_943,1,speed
+officer_943,0,overtake
+officer_943,1,rule violating
+officer_943,0,turning
+officer_943,1,other
+officer_944,0,careless driving
+officer_944,1,drunk
+officer_944,1,speed
+officer_944,1,overtake
+officer_944,1,rule violating
+officer_944,0,turning
+officer_944,0,other
+officer_945,0,careless driving
+officer_945,0,drunk
+officer_945,1,speed
+officer_945,1,overtake
+officer_945,0,rule violating
+officer_945,0,turning
+officer_945,1,other
+officer_946,0,careless driving
+officer_946,0,drunk
+officer_946,1,speed
+officer_946,0,overtake
+officer_946,0,rule violating
+officer_946,0,turning
+officer_946,0,other
+officer_947,0,careless driving
+officer_947,0,drunk
+officer_947,1,speed
+officer_947,1,overtake
+officer_947,1,rule violating
+officer_947,0,turning
+officer_947,0,other
+officer_948,0,careless driving
+officer_948,0,drunk
+officer_948,0,speed
+officer_948,0,overtake
+officer_948,1,rule violating
+officer_948,0,turning
+officer_948,0,other
+officer_949,0,careless driving
+officer_949,0,drunk
+officer_949,0,speed
+officer_949,1,overtake
+officer_949,0,rule violating
+officer_949,0,turning
+officer_949,1,other
+officer_950,0,careless driving
+officer_950,1,drunk
+officer_950,1,speed
+officer_950,0,overtake
+officer_950,0,rule violating
+officer_950,0,turning
+officer_950,1,other
+officer_951,0,careless driving
+officer_951,1,drunk
+officer_951,0,speed
+officer_951,1,overtake
+officer_951,0,rule violating
+officer_951,0,turning
+officer_951,1,other
+officer_952,0,careless driving
+officer_952,0,drunk
+officer_952,0,speed
+officer_952,0,overtake
+officer_952,1,rule violating
+officer_952,1,turning
+officer_952,1,other
+officer_953,0,careless driving
+officer_953,0,drunk
+officer_953,0,speed
+officer_953,0,overtake
+officer_953,1,rule violating
+officer_953,1,turning
+officer_953,1,other
+officer_954,1,careless driving
+officer_954,1,drunk
+officer_954,0,speed
+officer_954,1,overtake
+officer_954,0,rule violating
+officer_954,0,turning
+officer_954,0,other
+officer_955,0,careless driving
+officer_955,0,drunk
+officer_955,0,speed
+officer_955,0,overtake
+officer_955,1,rule violating
+officer_955,0,turning
+officer_955,1,other
+officer_956,1,careless driving
+officer_956,0,drunk
+officer_956,1,speed
+officer_956,0,overtake
+officer_956,0,rule violating
+officer_956,1,turning
+officer_956,1,other
+officer_957,1,careless driving
+officer_957,1,drunk
+officer_957,1,speed
+officer_957,0,overtake
+officer_957,0,rule violating
+officer_957,1,turning
+officer_957,0,other
+officer_958,0,careless driving
+officer_958,0,drunk
+officer_958,0,speed
+officer_958,1,overtake
+officer_958,1,rule violating
+officer_958,1,turning
+officer_958,0,other
+officer_959,0,careless driving
+officer_959,1,drunk
+officer_959,1,speed
+officer_959,1,overtake
+officer_959,1,rule violating
+officer_959,0,turning
+officer_959,1,other
+officer_960,0,careless driving
+officer_960,1,drunk
+officer_960,1,speed
+officer_960,0,overtake
+officer_960,1,rule violating
+officer_960,1,turning
+officer_960,0,other
+officer_961,1,careless driving
+officer_961,0,drunk
+officer_961,1,speed
+officer_961,0,overtake
+officer_961,0,rule violating
+officer_961,1,turning
+officer_961,0,other
+officer_962,0,careless driving
+officer_962,1,drunk
+officer_962,1,speed
+officer_962,1,overtake
+officer_962,1,rule violating
+officer_962,0,turning
+officer_962,1,other
+officer_963,0,careless driving
+officer_963,1,drunk
+officer_963,1,speed
+officer_963,1,overtake
+officer_963,1,rule violating
+officer_963,1,turning
+officer_963,1,other
+officer_964,1,careless driving
+officer_964,0,drunk
+officer_964,1,speed
+officer_964,1,overtake
+officer_964,0,rule violating
+officer_964,1,turning
+officer_964,0,other
+officer_965,0,careless driving
+officer_965,1,drunk
+officer_965,1,speed
+officer_965,1,overtake
+officer_965,1,rule violating
+officer_965,0,turning
+officer_965,1,other
+officer_966,1,careless driving
+officer_966,0,drunk
+officer_966,0,speed
+officer_966,0,overtake
+officer_966,1,rule violating
+officer_966,1,turning
+officer_966,0,other
+officer_967,0,careless driving
+officer_967,0,drunk
+officer_967,1,speed
+officer_967,1,overtake
+officer_967,0,rule violating
+officer_967,1,turning
+officer_967,1,other
+officer_968,1,careless driving
+officer_968,1,drunk
+officer_968,0,speed
+officer_968,1,overtake
+officer_968,1,rule violating
+officer_968,0,turning
+officer_968,0,other
+officer_969,0,careless driving
+officer_969,0,drunk
+officer_969,1,speed
+officer_969,1,overtake
+officer_969,1,rule violating
+officer_969,0,turning
+officer_969,1,other
+officer_970,1,careless driving
+officer_970,1,drunk
+officer_970,0,speed
+officer_970,0,overtake
+officer_970,1,rule violating
+officer_970,0,turning
+officer_970,0,other
+officer_971,1,careless driving
+officer_971,0,drunk
+officer_971,0,speed
+officer_971,0,overtake
+officer_971,1,rule violating
+officer_971,0,turning
+officer_971,0,other
+officer_972,0,careless driving
+officer_972,1,drunk
+officer_972,0,speed
+officer_972,1,overtake
+officer_972,0,rule violating
+officer_972,1,turning
+officer_972,1,other
+officer_973,1,careless driving
+officer_973,0,drunk
+officer_973,1,speed
+officer_973,1,overtake
+officer_973,1,rule violating
+officer_973,0,turning
+officer_973,1,other
+officer_974,1,careless driving
+officer_974,1,drunk
+officer_974,0,speed
+officer_974,1,overtake
+officer_974,1,rule violating
+officer_974,1,turning
+officer_974,1,other
+officer_975,1,careless driving
+officer_975,1,drunk
+officer_975,1,speed
+officer_975,1,overtake
+officer_975,1,rule violating
+officer_975,0,turning
+officer_975,1,other
+officer_976,1,careless driving
+officer_976,0,drunk
+officer_976,0,speed
+officer_976,0,overtake
+officer_976,1,rule violating
+officer_976,0,turning
+officer_976,0,other
+officer_977,1,careless driving
+officer_977,0,drunk
+officer_977,1,speed
+officer_977,1,overtake
+officer_977,1,rule violating
+officer_977,1,turning
+officer_977,1,other
+officer_978,1,careless driving
+officer_978,0,drunk
+officer_978,0,speed
+officer_978,0,overtake
+officer_978,1,rule violating
+officer_978,1,turning
+officer_978,1,other
+officer_979,0,careless driving
+officer_979,0,drunk
+officer_979,0,speed
+officer_979,1,overtake
+officer_979,1,rule violating
+officer_979,1,turning
+officer_979,1,other
+officer_980,1,careless driving
+officer_980,1,drunk
+officer_980,1,speed
+officer_980,0,overtake
+officer_980,0,rule violating
+officer_980,0,turning
+officer_980,0,other
+officer_981,0,careless driving
+officer_981,1,drunk
+officer_981,0,speed
+officer_981,0,overtake
+officer_981,0,rule violating
+officer_981,0,turning
+officer_981,1,other
+officer_982,0,careless driving
+officer_982,0,drunk
+officer_982,1,speed
+officer_982,0,overtake
+officer_982,0,rule violating
+officer_982,1,turning
+officer_982,1,other
+officer_983,1,careless driving
+officer_983,0,drunk
+officer_983,1,speed
+officer_983,0,overtake
+officer_983,1,rule violating
+officer_983,1,turning
+officer_983,1,other
+officer_984,1,careless driving
+officer_984,1,drunk
+officer_984,0,speed
+officer_984,1,overtake
+officer_984,1,rule violating
+officer_984,0,turning
+officer_984,0,other
+officer_985,0,careless driving
+officer_985,1,drunk
+officer_985,1,speed
+officer_985,1,overtake
+officer_985,1,rule violating
+officer_985,0,turning
+officer_985,1,other
+officer_986,0,careless driving
+officer_986,0,drunk
+officer_986,1,speed
+officer_986,1,overtake
+officer_986,0,rule violating
+officer_986,0,turning
+officer_986,1,other
+officer_987,0,careless driving
+officer_987,1,drunk
+officer_987,0,speed
+officer_987,1,overtake
+officer_987,0,rule violating
+officer_987,0,turning
+officer_987,1,other
+officer_988,0,careless driving
+officer_988,1,drunk
+officer_988,0,speed
+officer_988,0,overtake
+officer_988,0,rule violating
+officer_988,1,turning
+officer_988,0,other
+officer_989,1,careless driving
+officer_989,1,drunk
+officer_989,1,speed
+officer_989,0,overtake
+officer_989,1,rule violating
+officer_989,0,turning
+officer_989,1,other
+officer_990,1,careless driving
+officer_990,0,drunk
+officer_990,0,speed
+officer_990,1,overtake
+officer_990,0,rule violating
+officer_990,0,turning
+officer_990,1,other
+officer_991,1,careless driving
+officer_991,1,drunk
+officer_991,0,speed
+officer_991,1,overtake
+officer_991,0,rule violating
+officer_991,1,turning
+officer_991,0,other
+officer_992,1,careless driving
+officer_992,1,drunk
+officer_992,0,speed
+officer_992,0,overtake
+officer_992,1,rule violating
+officer_992,0,turning
+officer_992,0,other
+officer_993,0,careless driving
+officer_993,1,drunk
+officer_993,1,speed
+officer_993,0,overtake
+officer_993,0,rule violating
+officer_993,0,turning
+officer_993,0,other
+officer_994,0,careless driving
+officer_994,1,drunk
+officer_994,1,speed
+officer_994,0,overtake
+officer_994,0,rule violating
+officer_994,0,turning
+officer_994,1,other
+officer_995,0,careless driving
+officer_995,0,drunk
+officer_995,1,speed
+officer_995,1,overtake
+officer_995,0,rule violating
+officer_995,0,turning
+officer_995,0,other
+officer_996,0,careless driving
+officer_996,0,drunk
+officer_996,0,speed
+officer_996,0,overtake
+officer_996,0,rule violating
+officer_996,0,turning
+officer_996,0,other
+officer_997,1,careless driving
+officer_997,0,drunk
+officer_997,0,speed
+officer_997,1,overtake
+officer_997,0,rule violating
+officer_997,0,turning
+officer_997,0,other
+officer_998,0,careless driving
+officer_998,1,drunk
+officer_998,0,speed
+officer_998,0,overtake
+officer_998,1,rule violating
+officer_998,1,turning
+officer_998,0,other
+officer_999,1,careless driving
+officer_999,1,drunk
+officer_999,1,speed
+officer_999,0,overtake
+officer_999,1,rule violating
+officer_999,0,turning
+officer_999,0,other
+officer_1000,1,careless driving
+officer_1000,0,drunk
+officer_1000,1,speed
+officer_1000,1,overtake
+officer_1000,1,rule violating
+officer_1000,0,turning
+officer_1000,0,other

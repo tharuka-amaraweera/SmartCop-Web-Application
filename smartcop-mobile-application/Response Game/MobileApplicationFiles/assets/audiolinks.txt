@@ -1,0 +1,11 @@
+audio clip 1(audioA.mp3)- https://drive.google.com/file/d/1OSea9ZMgFVF29A7kgG795UTiyCBw0hrp/view?usp=sharing
+
+audio clip 2(smartcopTune.mp3)- https://drive.google.com/file/d/1dnbvwRMgI7wNDJunPaKKFQFzgCSCCQGI/view?usp=sharing
+
+audio clip 3(startup.mp3)- https://drive.google.com/file/d/1_tpBmy7-XdRLXNd3NmEWfSNPyAJs0A8t/view?usp=sharing
+
+•  Cannot add audio files directly to the gitlab because of insufficient space issue. So, the audio files are added to Google drive. 
+
+•  You can download the needed audio files for quiz game using above links.
+
+•  Then copy and paste the downloaded audio files to this "assets" folder.

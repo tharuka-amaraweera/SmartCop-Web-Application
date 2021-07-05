@@ -1,0 +1,82 @@
+
+#nav1 {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+  }
+  
+
+  #severity {
+    background-color: #B0E0E6;
+  }
+
+  #severity_button {
+    background-color: 	 #0b508e;
+  }
+
+  .card-header {
+    color: 	#FFFFFF;
+  }
+
+  #reason {
+    background-color:#C0C0C0;
+  }
+
+  #reason_button {
+    background-color: 	#323532;
+  }
+
+  #time {
+    background-color: 	#DEB887;
+  }
+
+  #time_button {
+    background-color: #463e15;
+  }
+
+  #area {
+    background-color: 	#7384bb;
+  }
+
+  #area_button {
+    background-color:	#103a79;
+  }
+
+  .heading { 
+    color:#0b508e; 
+    text-align: center;
+}
+
+.heading_red { 
+  color:#c70e0e; 
+  text-align: center;
+}
+
+.heading_black {
+  color: black;
+}
+
+#color_lightgreen {
+  background-color: #F0FFF0
+}
+
+.heading_description { 
+  color:#6e6d6d; 
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#prediction-reports {
+  color:#faf8f8; 
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-size: large;
+}
+
+.heading_white {
+  color: rgb(248, 245, 245);
+}
+
+.prediction-card {
+  columns: #13075c;
+}

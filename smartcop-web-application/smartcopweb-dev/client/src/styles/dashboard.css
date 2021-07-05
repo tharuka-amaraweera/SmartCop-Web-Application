@@ -1,0 +1,20 @@
+.card_background {
+    background-color:#103a79; 
+}
+
+.headings {
+    color:#F0FFF0; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-body-heading {
+    color:#F0FFF0; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.coverhead-new {
+    color: wheat;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+  }

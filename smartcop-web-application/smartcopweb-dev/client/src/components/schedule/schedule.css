@@ -1,0 +1,186 @@
+.day {
+  color: black;
+  font-size: 33px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.rec {
+  color: darkgreen;
+  font-size: 33px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  background-color: lightgrey;
+}
+
+.tbheader {
+  font-weight: bold;
+  color: #130000;
+}
+
+#tbl {
+  background-color: #dbd0d0;
+}
+
+.tbdata {
+  font-weight: bold;
+  color: #610420;
+}
+
+.rechead {
+  color: black;
+  text-align: center;
+}
+
+#btn1 {
+  background-color: teal;
+  padding: 5%;
+  text-align: center;
+  color: white;
+  border-radius: 12px;
+}
+
+#btn2 {
+  background-color: #a52a2a;
+  padding: 5%;
+  text-align: center;
+  color: white;
+  border-radius: 12px;
+}
+
+#btn3 {
+  background-color: #ffa500;
+  padding: 5%;
+  text-align: center;
+  color: white;
+  border-radius: 12px;
+}
+
+#btn4 {
+  background-color: #1e90ff;
+  padding: 5%;
+  text-align: center;
+  color: white;
+  border-radius: 12px;
+}
+
+#btn11 {
+  background-color: #b0e0e6;
+  padding: 5%;
+  text-align: center;
+  color: blue;
+  border: none;
+}
+
+#btn22 {
+  background-color: #deb887;
+  padding: 5%;
+  text-align: center;
+  color: brown;
+  border: none;
+}
+
+#btn33 {
+  background-color: #f0e68c;
+  padding: 5%;
+  text-align: center;
+  color: #ff4500;
+  border: none;
+}
+
+#btn44 {
+  background-color: #87ceeb;
+  padding: 5%;
+  text-align: center;
+  color: #00008b;
+  border: none;
+}
+
+.btnhead {
+  color: white;
+}
+
+.coverhead {
+  color: wheat;
+  font-size: 33px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.bdr {
+  border-right: 1px solid #bbb;
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  font-weight: bold;
+  font-size: 120%;
+}
+
+.lnk {
+  color: #00008b;
+}
+
+.bdrcorner {
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  font-weight: bold;
+  font-size: 120%;
+}
+
+.logodes {
+  padding-left: 15px;
+}
+
+.frompad {
+  padding-top: 5%;
+}
+#btnpad {
+  padding-top: 15%;
+  padding-bottom: 10%;
+  margin-top: 15%;
+}
+
+.nav-bg {
+  background-color: gray;
+}
+
+.offhead {
+  color: #000080;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  padding-top: 3%;
+  font-style: italic;
+}
+
+.offheadone {
+  color: #000080;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  padding-top: 3%;
+  font-style: italic;
+  font-size: 250%;
+}
+
+.cdhead {
+  background-color: #e9967a;
+}
+.cardlog {
+  border-radius: 20%;
+}
+
+.offname {
+  text-align: center;
+  color: maroon;
+}
+
+#bgc {
+  background-color: #6ab759;
+}
+
+.offnamehead{
+  text-align: center;
+  color: maroon;
+}
